@@ -1,0 +1,5670 @@
+[
+  {
+    "url": "https://usehalo.com/guide/introduction-to-halopsa/",
+    "final_url": "https://usehalo.com/guide/introduction-to-halopsa/",
+    "title": "Introduction to HaloPSA",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Introduction to HaloPSA"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 2109,
+    "estimated_tokens": 2847,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/self-service-portal/",
+    "final_url": "https://usehalo.com/guide/self-service-portal/",
+    "title": "Self Service Portal",
+    "section": "Self Service Portal",
+    "headings": {
+      "h1": [
+        "Self Service Portal"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1716,
+    "estimated_tokens": 2316,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/super-ops-rmm-integration/",
+    "final_url": "https://usehalo.com/guide/super-ops-rmm-integration/",
+    "title": "Super Ops RMM Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Super Ops RMM Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1534,
+    "estimated_tokens": 2070,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/scheduled-tickets-2/",
+    "final_url": "https://usehalo.com/guide/scheduled-tickets-2/",
+    "title": "Scheduled Tickets",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Scheduled Tickets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ]
+    },
+    "word_count": 1606,
+    "estimated_tokens": 2168,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/email-general-settings/",
+    "final_url": "https://usehalo.com/guide/email-general-settings/",
+    "title": "Email (General Settings)",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Email (General Settings)"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 659,
+    "estimated_tokens": 889,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/azure-devops-integration/",
+    "final_url": "https://usehalo.com/guide/azure-devops-integration/",
+    "title": "Azure DevOps Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Azure DevOps Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ]
+    },
+    "word_count": 1736,
+    "estimated_tokens": 2343,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/general-settings-10/",
+    "final_url": "https://usehalo.com/guide/general-settings-10/",
+    "title": "General Settings (Notifications)",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "General Settings (Notifications)"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 687,
+    "estimated_tokens": 927,
+    "image_count": 0,
+    "code_block_count": 3,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/agents-2/",
+    "final_url": "https://usehalo.com/guide/agents-2/",
+    "title": "Agents",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Agents"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 891,
+    "estimated_tokens": 1202,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/azure-sentinel-webhooks/",
+    "final_url": "https://usehalo.com/guide/azure-sentinel-webhooks/",
+    "title": "Azure Sentinel Webhooks",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Azure Sentinel Webhooks"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 976,
+    "estimated_tokens": 1317,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/introduction-9/",
+    "final_url": "https://usehalo.com/guide/introduction-9/",
+    "title": "Guide Introduction",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Guide Introduction"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    "word_count": 1229,
+    "estimated_tokens": 1659,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-management/",
+    "final_url": "https://usehalo.com/guide/asset-management/",
+    "title": "Asset Management",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Management"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    "word_count": 849,
+    "estimated_tokens": 1146,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/pax8-integration/",
+    "final_url": "https://usehalo.com/guide/pax8-integration/",
+    "title": "Pax8 Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Pax8 Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    "word_count": 1321,
+    "estimated_tokens": 1783,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/setting-price-overrides-per-supplier-at-product-level/",
+    "final_url": "https://usehalo.com/guide/setting-price-overrides-per-supplier-at-product-level/",
+    "title": "Setting Price Overrides Per Supplier at Product Level",
+    "section": "Product Management",
+    "headings": {
+      "h1": [
+        "Setting Price Overrides Per Supplier at Product Level"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1071,
+    "estimated_tokens": 1445,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/the-report-screen-explained/",
+    "final_url": "https://usehalo.com/guide/the-report-screen-explained/",
+    "title": "The Report Screen Explained",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "The Report Screen Explained"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 938,
+    "estimated_tokens": 1266,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-dashboards/",
+    "final_url": "https://usehalo.com/guide/ticket-dashboards/",
+    "title": "Ticket Dashboards",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Ticket Dashboards"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 683,
+    "estimated_tokens": 922,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/azure-automation-integration/",
+    "final_url": "https://usehalo.com/guide/azure-automation-integration/",
+    "title": "Azure Automation Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Azure Automation Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 813,
+    "estimated_tokens": 1097,
+    "image_count": 5,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/halopsa/guides/1530/",
+    "final_url": "https://usehalo.com/halopsa/guides/1530/",
+    "title": "Guides (ID 1530)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guides (ID 1530)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 423,
+    "estimated_tokens": 571,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/halopsa/guides/2100/",
+    "final_url": "https://usehalo.com/halopsa/guides/2100/",
+    "title": "Runbooks",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "Runbooks"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1268,
+    "estimated_tokens": 1711,
+    "image_count": 12,
+    "code_block_count": 3,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/halopsa/guides/2371/",
+    "final_url": "https://usehalo.com/halopsa/guides/2371/",
+    "title": "Project Sales Process",
+    "section": "Projects",
+    "headings": {
+      "h1": [
+        "Project Sales Process"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1625,
+    "estimated_tokens": 2193,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=1823",
+    "final_url": "https://halopsa.com/guides/article/?kbid=1823",
+    "title": "HaloPSA API Guide",
+    "section": "API",
+    "headings": {
+      "h1": [
+        "HaloPSA API Guide"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1839,
+    "estimated_tokens": 2482,
+    "image_count": 0,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2305",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2305",
+    "title": "Events and Alerts (RMM Integration)",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Events and Alerts (RMM Integration)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 501,
+    "estimated_tokens": 676,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2330",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2330",
+    "title": "Guide Article (kbid 2330)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guide Article (kbid 2330)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 890,
+    "estimated_tokens": 1201,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2370",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2370",
+    "title": "Guides Index",
+    "section": "Index",
+    "headings": {
+      "h1": [
+        "Guides Index"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 472,
+    "estimated_tokens": 637,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-views-fields/",
+    "final_url": "https://usehalo.com/guide/asset-views-fields/",
+    "title": "Asset Views/Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Views/Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 738,
+    "estimated_tokens": 996,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-fields/",
+    "final_url": "https://usehalo.com/guide/asset-fields/",
+    "title": "Asset Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 811,
+    "estimated_tokens": 1094,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-views/",
+    "final_url": "https://usehalo.com/guide/asset-views/",
+    "title": "Asset Views",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Views"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 907,
+    "estimated_tokens": 1224,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/batch-updating-asset-fields/",
+    "final_url": "https://usehalo.com/guide/batch-updating-asset-fields/",
+    "title": "Batch Updating Asset Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Batch Updating Asset Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 851,
+    "estimated_tokens": 1148,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
+    "final_url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
+    "title": "Importing Assets (CSV/XLS/Spreadsheet Method)",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Importing Assets (CSV/XLS/Spreadsheet Method)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1076,
+    "estimated_tokens": 1452,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
+    "final_url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
+    "title": "Linking Assets Throughout Halo",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Assets Throughout Halo"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 670,
+    "estimated_tokens": 904,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-assets/",
+    "final_url": "https://usehalo.com/guide/linking-assets/",
+    "title": "Linking Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 1233,
+    "estimated_tokens": 1664,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-products-to-assets/",
+    "final_url": "https://usehalo.com/guide/linking-products-to-assets/",
+    "title": "Linking Products to Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Products to Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 1356,
+    "estimated_tokens": 1830,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-custom-buttons/",
+    "final_url": "https://usehalo.com/guide/asset-custom-buttons/",
+    "title": "Asset Custom Buttons",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Custom Buttons"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 909,
+    "estimated_tokens": 1227,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-management-configuration/",
+    "final_url": "https://usehalo.com/guide/asset-management-configuration/",
+    "title": "Asset Management Configuration",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Management Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 911,
+    "estimated_tokens": 1229,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-meters/",
+    "final_url": "https://usehalo.com/guide/asset-meters/",
+    "title": "Asset Meters",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Meters"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 430,
+    "estimated_tokens": 580,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-resource-booking/",
+    "final_url": "https://usehalo.com/guide/asset-resource-booking/",
+    "title": "Asset Resource Booking",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Resource Booking"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1221,
+    "estimated_tokens": 1648,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-template-creation/",
+    "final_url": "https://usehalo.com/guide/asset-template-creation/",
+    "title": "Asset Template Creation",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Template Creation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 984,
+    "estimated_tokens": 1328,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-types-groups/",
+    "final_url": "https://usehalo.com/guide/asset-types-groups/",
+    "title": "Asset Types/Groups",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Types/Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 524,
+    "estimated_tokens": 707,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/assets-vs-items/",
+    "final_url": "https://usehalo.com/guide/assets-vs-items/",
+    "title": "Assets Vs Items",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Assets Vs Items"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 1487,
+    "estimated_tokens": 2007,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/barcode-scanning/",
+    "final_url": "https://usehalo.com/guide/barcode-scanning/",
+    "title": "Barcode Scanning",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Barcode Scanning"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ]
+    },
+    "word_count": 881,
+    "estimated_tokens": 1189,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/device-change-history/",
+    "final_url": "https://usehalo.com/guide/device-change-history/",
+    "title": "Device Change History",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Device Change History"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1258,
+    "estimated_tokens": 1698,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/event-management/",
+    "final_url": "https://usehalo.com/guide/event-management/",
+    "title": "Event Management",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Event Management"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1043,
+    "estimated_tokens": 1408,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
+    "final_url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
+    "title": "Iframe Custom Tabs on Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Iframe Custom Tabs on Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1047,
+    "estimated_tokens": 1413,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/lapsafe-integration/",
+    "final_url": "https://usehalo.com/guide/lapsafe-integration/",
+    "title": "LapSafe Integration",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "LapSafe Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 550,
+    "estimated_tokens": 742,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/changing-your-halo-url/",
+    "final_url": "https://usehalo.com/guide/changing-your-halo-url/",
+    "title": "Changing your Halo URL",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Changing your Halo URL"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 940,
+    "estimated_tokens": 1269,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
+    "final_url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
+    "title": "Introduction to Halo Documentation",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Introduction to Halo Documentation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ]
+    },
+    "word_count": 2452,
+    "estimated_tokens": 3310,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ip-addresses-for-whitelisting/",
+    "final_url": "https://usehalo.com/guide/ip-addresses-for-whitelisting/",
+    "title": "IP Addresses for Whitelisting",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "IP Addresses for Whitelisting"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1012,
+    "estimated_tokens": 1366,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/navigating-the-self-service-portal-for-end-users/",
+    "final_url": "https://usehalo.com/guide/navigating-the-self-service-portal-for-end-users/",
+    "title": "Navigating the Self-Service Portal (For End Users)",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Navigating the Self-Service Portal (For End Users)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 2038,
+    "estimated_tokens": 2751,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/release-notes/",
+    "final_url": "https://usehalo.com/guide/release-notes/",
+    "title": "Release Notes",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Release Notes"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1314,
+    "estimated_tokens": 1773,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/terminology/",
+    "final_url": "https://usehalo.com/guide/terminology/",
+    "title": "Terminology",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Terminology"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 2104,
+    "estimated_tokens": 2840,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/step-by-step-configuration-walk-through/",
+    "final_url": "https://usehalo.com/guide/step-by-step-configuration-walk-through/",
+    "title": "Step-by-Step Configuration Walk Through",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Step-by-Step Configuration Walk Through"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ]
+    },
+    "word_count": 2215,
+    "estimated_tokens": 2990,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/actions/",
+    "final_url": "https://usehalo.com/guide/actions/",
+    "title": "Actions",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Actions"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 342,
+    "estimated_tokens": 461,
+    "image_count": 0,
+    "code_block_count": 1,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/agents-configuration/",
+    "final_url": "https://usehalo.com/guide/agents-configuration/",
+    "title": "Agents Configuration",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Agents Configuration"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 666,
+    "estimated_tokens": 899,
+    "image_count": 7,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/custom-fields/",
+    "final_url": "https://usehalo.com/guide/custom-fields/",
+    "title": "Custom Fields",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Custom Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1067,
+    "estimated_tokens": 1440,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/general-settings-asset-management/",
+    "final_url": "https://usehalo.com/guide/general-settings-asset-management/",
+    "title": "General Settings (Asset Management)",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "General Settings (Asset Management)"
+      ]
+    },
+    "word_count": 325,
+    "estimated_tokens": 438,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/general-settings-tickets/",
+    "final_url": "https://usehalo.com/guide/general-settings-tickets/",
+    "title": "General Settings (Tickets)",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "General Settings (Tickets)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1121,
+    "estimated_tokens": 1513,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/items-and-stock-control/",
+    "final_url": "https://usehalo.com/guide/items-and-stock-control/",
+    "title": "Items & Stock Control",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Items & Stock Control"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1179,
+    "estimated_tokens": 1591,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/recurring-invoices/",
+    "final_url": "https://usehalo.com/guide/recurring-invoices/",
+    "title": "Recurring Invoices",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Recurring Invoices"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1056,
+    "estimated_tokens": 1425,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/self-service-portal-configuration/",
+    "final_url": "https://usehalo.com/guide/self-service-portal-configuration/",
+    "title": "Self Service Portal Configuration",
+    "section": "Self Service Portal",
+    "headings": {
+      "h1": [
+        "Self Service Portal Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1171,
+    "estimated_tokens": 1580,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/services/",
+    "final_url": "https://usehalo.com/guide/services/",
+    "title": "Services",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Services"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 639,
+    "estimated_tokens": 862,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/service-level-agreements/",
+    "final_url": "https://usehalo.com/guide/service-level-agreements/",
+    "title": "Service Level Agreements",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "Service Level Agreements"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 539,
+    "estimated_tokens": 727,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/statuses/",
+    "final_url": "https://usehalo.com/guide/statuses/",
+    "title": "Statuses",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Statuses"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 746,
+    "estimated_tokens": 1007,
+    "image_count": 1,
+    "code_block_count": 4,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/views/",
+    "final_url": "https://usehalo.com/guide/views/",
+    "title": "Views",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Views"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 301,
+    "estimated_tokens": 406,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-types/",
+    "final_url": "https://usehalo.com/guide/ticket-types/",
+    "title": "Ticket Types",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Ticket Types"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1773,
+    "estimated_tokens": 2393,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/modifying-and-adding-workflows/",
+    "final_url": "https://usehalo.com/guide/modifying-and-adding-workflows/",
+    "title": "Modifying and Adding Workflows",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Modifying and Adding Workflows"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1758,
+    "estimated_tokens": 2373,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/problem-management/",
+    "final_url": "https://usehalo.com/guide/problem-management/",
+    "title": "Problem Management",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Problem Management"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1005,
+    "estimated_tokens": 1356,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/canned-text/",
+    "final_url": "https://usehalo.com/guide/canned-text/",
+    "title": "Canned Text",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Canned Text"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1660,
+    "estimated_tokens": 2241,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/field-groups/",
+    "final_url": "https://usehalo.com/guide/field-groups/",
+    "title": "Field Groups",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Field Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1587,
+    "estimated_tokens": 2142,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/call-scripts/",
+    "final_url": "https://usehalo.com/guide/call-scripts/",
+    "title": "Call Scripts",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Call Scripts"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 747,
+    "estimated_tokens": 1008,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-screen-breakdown/",
+    "final_url": "https://usehalo.com/guide/ticket-screen-breakdown/",
+    "title": "Ticket Screen Breakdown",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Ticket Screen Breakdown"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 881,
+    "estimated_tokens": 1189,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/dynamic-field-visibility/",
+    "final_url": "https://usehalo.com/guide/dynamic-field-visibility/",
+    "title": "Dynamic Field Visibility",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Dynamic Field Visibility"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ]
+    },
+    "word_count": 1651,
+    "estimated_tokens": 2228,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/creating-tickets-via-email/",
+    "final_url": "https://usehalo.com/guide/creating-tickets-via-email/",
+    "title": "Creating Tickets via Email",
+    "section": "Raising Tickets",
+    "headings": {
+      "h1": [
+        "Creating Tickets via Email"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1113,
+    "estimated_tokens": 1502,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/creating-tickets-via-portal/",
+    "final_url": "https://usehalo.com/guide/creating-tickets-via-portal/",
+    "title": "Creating Tickets via Portal",
+    "section": "Raising Tickets",
+    "headings": {
+      "h1": [
+        "Creating Tickets via Portal"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1197,
+    "estimated_tokens": 1615,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/creating-tickets-manually/",
+    "final_url": "https://usehalo.com/guide/creating-tickets-manually/",
+    "title": "Creating Tickets Manually",
+    "section": "Raising Tickets",
+    "headings": {
+      "h1": [
+        "Creating Tickets Manually"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 655,
+    "estimated_tokens": 884,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/time-logging/",
+    "final_url": "https://usehalo.com/guide/time-logging/",
+    "title": "Time Logging",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Time Logging"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1619,
+    "estimated_tokens": 2185,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sla-configuration/",
+    "final_url": "https://usehalo.com/guide/sla-configuration/",
+    "title": "SLA Configuration",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "SLA Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 956,
+    "estimated_tokens": 1290,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/workdays-work-hours/",
+    "final_url": "https://usehalo.com/guide/workdays-work-hours/",
+    "title": "Workdays/Work Hours",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "Workdays/Work Hours"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 783,
+    "estimated_tokens": 1057,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sla-hold-reminders/",
+    "final_url": "https://usehalo.com/guide/sla-hold-reminders/",
+    "title": "SLA Hold Reminders",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "SLA Hold Reminders"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1230,
+    "estimated_tokens": 1660,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sla-module/",
+    "final_url": "https://usehalo.com/guide/sla-module/",
+    "title": "SLA Module",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "SLA Module"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 582,
+    "estimated_tokens": 785,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sla-auto-release-option/",
+    "final_url": "https://usehalo.com/guide/sla-auto-release-option/",
+    "title": "SLA Auto-Release Option",
+    "section": "SLA",
+    "headings": {
+      "h1": [
+        "SLA Auto-Release Option"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 719,
+    "estimated_tokens": 970,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/notification-configuration/",
+    "final_url": "https://usehalo.com/guide/notification-configuration/",
+    "title": "Notification Configuration",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Notification Configuration"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 563,
+    "estimated_tokens": 760,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/notification-types/",
+    "final_url": "https://usehalo.com/guide/notification-types/",
+    "title": "Notification Types",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Notification Types"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 520,
+    "estimated_tokens": 702,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/editing-system-email-templates/",
+    "final_url": "https://usehalo.com/guide/editing-system-email-templates/",
+    "title": "Editing System Email Templates",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Editing System Email Templates"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1373,
+    "estimated_tokens": 1853,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/custom-email-templates/",
+    "final_url": "https://usehalo.com/guide/custom-email-templates/",
+    "title": "Custom Email Templates",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Custom Email Templates"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 844,
+    "estimated_tokens": 1139,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/message-groups/",
+    "final_url": "https://usehalo.com/guide/message-groups/",
+    "title": "Message Groups",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Message Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ]
+    },
+    "word_count": 1106,
+    "estimated_tokens": 1493,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/email-template-groups/",
+    "final_url": "https://usehalo.com/guide/email-template-groups/",
+    "title": "Email Template Groups",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Email Template Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 766,
+    "estimated_tokens": 1034,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/google-mailbox-setup/",
+    "final_url": "https://usehalo.com/guide/google-mailbox-setup/",
+    "title": "Google Mailbox Setup",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Google Mailbox Setup"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 784,
+    "estimated_tokens": 1058,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/configuring-an-azure-mailbox/",
+    "final_url": "https://usehalo.com/guide/configuring-an-azure-mailbox/",
+    "title": "Configuring an Azure Mailbox",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Configuring an Azure Mailbox"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1474,
+    "estimated_tokens": 1989,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/outgoing-email-settings/",
+    "final_url": "https://usehalo.com/guide/outgoing-email-settings/",
+    "title": "Outgoing Email Settings",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Outgoing Email Settings"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 704,
+    "estimated_tokens": 950,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/email-rules/",
+    "final_url": "https://usehalo.com/guide/email-rules/",
+    "title": "Email Rules",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Email Rules"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1470,
+    "estimated_tokens": 1984,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sms-settings/",
+    "final_url": "https://usehalo.com/guide/sms-settings/",
+    "title": "SMS Settings",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "SMS Settings"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1235,
+    "estimated_tokens": 1667,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/quotations/",
+    "final_url": "https://usehalo.com/guide/quotations/",
+    "title": "Quotations",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Quotations"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1368,
+    "estimated_tokens": 1846,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sales-orders/",
+    "final_url": "https://usehalo.com/guide/sales-orders/",
+    "title": "Sales Orders",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Sales Orders"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ]
+    },
+    "word_count": 1217,
+    "estimated_tokens": 1642,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/purchase-orders/",
+    "final_url": "https://usehalo.com/guide/purchase-orders/",
+    "title": "Purchase Orders",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Purchase Orders"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1926,
+    "estimated_tokens": 2600,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/customer-contracts/",
+    "final_url": "https://usehalo.com/guide/customer-contracts/",
+    "title": "Customer Contracts",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Customer Contracts"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1901,
+    "estimated_tokens": 2566,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/supplier-contracts/",
+    "final_url": "https://usehalo.com/guide/supplier-contracts/",
+    "title": "Supplier Contracts",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Supplier Contracts"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1153,
+    "estimated_tokens": 1556,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/pdf-templates/",
+    "final_url": "https://usehalo.com/guide/pdf-templates/",
+    "title": "PDF Templates",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "PDF Templates"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1102,
+    "estimated_tokens": 1487,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/recurring-invoice-approvals/",
+    "final_url": "https://usehalo.com/guide/recurring-invoice-approvals/",
+    "title": "Recurring Invoice Approvals",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Recurring Invoice Approvals"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1288,
+    "estimated_tokens": 1738,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/contract-rules/",
+    "final_url": "https://usehalo.com/guide/contract-rules/",
+    "title": "Contract Rules",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Contract Rules"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1172,
+    "estimated_tokens": 1582,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/charge-rates/",
+    "final_url": "https://usehalo.com/guide/charge-rates/",
+    "title": "Charge Rates",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Charge Rates"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1600,
+    "estimated_tokens": 2160,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/billing-rules/",
+    "final_url": "https://usehalo.com/guide/billing-rules/",
+    "title": "Billing Rules",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Billing Rules"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 790,
+    "estimated_tokens": 1066,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/tax-codes/",
+    "final_url": "https://usehalo.com/guide/tax-codes/",
+    "title": "Tax Codes",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Tax Codes"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1569,
+    "estimated_tokens": 2118,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/peppol-e-invoicing/",
+    "final_url": "https://usehalo.com/guide/peppol-e-invoicing/",
+    "title": "Peppol e-Invoicing",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Peppol e-Invoicing"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1529,
+    "estimated_tokens": 2064,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/project-management-configuration/",
+    "final_url": "https://usehalo.com/guide/project-management-configuration/",
+    "title": "Project Management Configuration",
+    "section": "Projects",
+    "headings": {
+      "h1": [
+        "Project Management Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1697,
+    "estimated_tokens": 2290,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/project-setup-wizard/",
+    "final_url": "https://usehalo.com/guide/project-setup-wizard/",
+    "title": "Project Setup Wizard",
+    "section": "Projects",
+    "headings": {
+      "h1": [
+        "Project Setup Wizard"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1807,
+    "estimated_tokens": 2439,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/project-tracking/",
+    "final_url": "https://usehalo.com/guide/project-tracking/",
+    "title": "Project Tracking",
+    "section": "Projects",
+    "headings": {
+      "h1": [
+        "Project Tracking"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1206,
+    "estimated_tokens": 1628,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ai-report-builder/",
+    "final_url": "https://usehalo.com/guide/ai-report-builder/",
+    "title": "AI Report Builder",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "AI Report Builder"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 961,
+    "estimated_tokens": 1297,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/charts-and-graphs-in-reports/",
+    "final_url": "https://usehalo.com/guide/charts-and-graphs-in-reports/",
+    "title": "Charts and Graphs in Reports",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Charts and Graphs in Reports"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 610,
+    "estimated_tokens": 823,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/common-sql-tables-and-joins/",
+    "final_url": "https://usehalo.com/guide/common-sql-tables-and-joins/",
+    "title": "Common SQL Tables and Joins",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Common SQL Tables and Joins"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 777,
+    "estimated_tokens": 1048,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/composite-reports/",
+    "final_url": "https://usehalo.com/guide/composite-reports/",
+    "title": "Composite Reports",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Composite Reports"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ]
+    },
+    "word_count": 1220,
+    "estimated_tokens": 1647,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/configuring-custom-appearances-in-reports/",
+    "final_url": "https://usehalo.com/guide/configuring-custom-appearances-in-reports/",
+    "title": "Configuring Custom Appearances in Reports",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Configuring Custom Appearances in Reports"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1022,
+    "estimated_tokens": 1379,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/dashboard-publishing-guide/",
+    "final_url": "https://usehalo.com/guide/dashboard-publishing-guide/",
+    "title": "Dashboard Publishing Guide",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Dashboard Publishing Guide"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 862,
+    "estimated_tokens": 1163,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/halo-in-app-dashboard/",
+    "final_url": "https://usehalo.com/guide/halo-in-app-dashboard/",
+    "title": "Halo In-App Dashboard",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Halo In-App Dashboard"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1278,
+    "estimated_tokens": 1725,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/link-excel-to-halo-report/",
+    "final_url": "https://usehalo.com/guide/link-excel-to-halo-report/",
+    "title": "Link Excel to Halo Report",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Link Excel to Halo Report"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    "word_count": 832,
+    "estimated_tokens": 1123,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/report-builder/",
+    "final_url": "https://usehalo.com/guide/report-builder/",
+    "title": "Report Builder",
+    "section": "Reporting",
+    "headings": {
+      "h1": [
+        "Report Builder"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 405,
+    "estimated_tokens": 546,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/connectwise-rmm-integration/",
+    "final_url": "https://usehalo.com/guide/connectwise-rmm-integration/",
+    "title": "ConnectWise RMM Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "ConnectWise RMM Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 974,
+    "estimated_tokens": 1314,
+    "image_count": 11,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/datto-rmm-integration/",
+    "final_url": "https://usehalo.com/guide/datto-rmm-integration/",
+    "title": "Datto RMM Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Datto RMM Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ]
+    },
+    "word_count": 905,
+    "estimated_tokens": 1221,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ninjaone-integration/",
+    "final_url": "https://usehalo.com/guide/ninjaone-integration/",
+    "title": "NinjaOne Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "NinjaOne Integration"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 646,
+    "estimated_tokens": 872,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/prtg-integration/",
+    "final_url": "https://usehalo.com/guide/prtg-integration/",
+    "title": "PRTG Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "PRTG Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1091,
+    "estimated_tokens": 1472,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/solarwinds-orion-integration/",
+    "final_url": "https://usehalo.com/guide/solarwinds-orion-integration/",
+    "title": "SolarWinds Orion Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "SolarWinds Orion Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1524,
+    "estimated_tokens": 2057,
+    "image_count": 6,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/zabbix-integration/",
+    "final_url": "https://usehalo.com/guide/zabbix-integration/",
+    "title": "Zabbix Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Zabbix Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 1012,
+    "estimated_tokens": 1366,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/anydesk-integration/",
+    "final_url": "https://usehalo.com/guide/anydesk-integration/",
+    "title": "AnyDesk Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "AnyDesk Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ]
+    },
+    "word_count": 1051,
+    "estimated_tokens": 1418,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/connectwise-control-integration/",
+    "final_url": "https://usehalo.com/guide/connectwise-control-integration/",
+    "title": "ConnectWise Control Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "ConnectWise Control Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 871,
+    "estimated_tokens": 1175,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/goto-resolve-integration/",
+    "final_url": "https://usehalo.com/guide/goto-resolve-integration/",
+    "title": "GoTo Resolve Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "GoTo Resolve Integration"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 714,
+    "estimated_tokens": 963,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/nagios-xi-integration/",
+    "final_url": "https://usehalo.com/guide/nagios-xi-integration/",
+    "title": "Nagios XI Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Nagios XI Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5"
+      ]
+    },
+    "word_count": 1626,
+    "estimated_tokens": 2195,
+    "image_count": 0,
+    "code_block_count": 4,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/kaseya-vsa-x-integration/",
+    "final_url": "https://usehalo.com/guide/kaseya-vsa-x-integration/",
+    "title": "Kaseya VSA X Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Kaseya VSA X Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9",
+        "Section 10"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1553,
+    "estimated_tokens": 2096,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/avalara-integration/",
+    "final_url": "https://usehalo.com/guide/avalara-integration/",
+    "title": "Avalara Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Avalara Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ]
+    },
+    "word_count": 1780,
+    "estimated_tokens": 2403,
+    "image_count": 0,
+    "code_block_count": 4,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sage-intacct-integration/",
+    "final_url": "https://usehalo.com/guide/sage-intacct-integration/",
+    "title": "Sage Intacct Integration",
+    "section": "Accounting",
+    "headings": {
+      "h1": [
+        "Sage Intacct Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ]
+    },
+    "word_count": 1401,
+    "estimated_tokens": 1891,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sage-50-canada-integration/",
+    "final_url": "https://usehalo.com/guide/sage-50-canada-integration/",
+    "title": "Sage 50 Canada Integration",
+    "section": "Accounting",
+    "headings": {
+      "h1": [
+        "Sage 50 Canada Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1226,
+    "estimated_tokens": 1655,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/microsoft-power-automate-integration/",
+    "final_url": "https://usehalo.com/guide/microsoft-power-automate-integration/",
+    "title": "Microsoft Power Automate Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Microsoft Power Automate Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1445,
+    "estimated_tokens": 1950,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/powershell-integration/",
+    "final_url": "https://usehalo.com/guide/powershell-integration/",
+    "title": "PowerShell Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "PowerShell Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1488,
+    "estimated_tokens": 2008,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/incoming-webhook-service/",
+    "final_url": "https://usehalo.com/guide/incoming-webhook-service/",
+    "title": "Incoming Webhook Service",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Incoming Webhook Service"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1540,
+    "estimated_tokens": 2079,
+    "image_count": 9,
+    "code_block_count": 3,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/menu-buttons-for-self-service-portal/",
+    "final_url": "https://usehalo.com/guide/menu-buttons-for-self-service-portal/",
+    "title": "Menu Buttons for Self-Service Portal",
+    "section": "Portal Customisation",
+    "headings": {
+      "h1": [
+        "Menu Buttons for Self-Service Portal"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 302,
+    "estimated_tokens": 407,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/google-analytics-on-portal/",
+    "final_url": "https://usehalo.com/guide/google-analytics-on-portal/",
+    "title": "Google Analytics on Portal",
+    "section": "Portal Customisation",
+    "headings": {
+      "h1": [
+        "Google Analytics on Portal"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 893,
+    "estimated_tokens": 1205,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/portal-css-customisation/",
+    "final_url": "https://usehalo.com/guide/portal-css-customisation/",
+    "title": "Portal CSS Customisation",
+    "section": "Portal Customisation",
+    "headings": {
+      "h1": [
+        "Portal CSS Customisation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 856,
+    "estimated_tokens": 1155,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-lists-on-portal/",
+    "final_url": "https://usehalo.com/guide/ticket-lists-on-portal/",
+    "title": "Ticket Lists on Portal",
+    "section": "Portal Customisation",
+    "headings": {
+      "h1": [
+        "Ticket Lists on Portal"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 544,
+    "estimated_tokens": 734,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/two-factor-authentication-2fa/",
+    "final_url": "https://usehalo.com/guide/two-factor-authentication-2fa/",
+    "title": "Two-Factor Authentication (2FA)",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "Two-Factor Authentication (2FA)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 625,
+    "estimated_tokens": 843,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ip-whitelisting-for-hosted-users/",
+    "final_url": "https://usehalo.com/guide/ip-whitelisting-for-hosted-users/",
+    "title": "IP Whitelisting for Hosted Users",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "IP Whitelisting for Hosted Users"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 967,
+    "estimated_tokens": 1305,
+    "image_count": 2,
+    "code_block_count": 4,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/redirect-http-to-https/",
+    "final_url": "https://usehalo.com/guide/redirect-http-to-https/",
+    "title": "Redirect HTTP to HTTPS",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "Redirect HTTP to HTTPS"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 402,
+    "estimated_tokens": 542,
+    "image_count": 0,
+    "code_block_count": 2,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sso-for-entra-id/",
+    "final_url": "https://usehalo.com/guide/sso-for-entra-id/",
+    "title": "SSO for Entra ID",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "SSO for Entra ID"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 376,
+    "estimated_tokens": 507,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sso-for-csp/",
+    "final_url": "https://usehalo.com/guide/sso-for-csp/",
+    "title": "SSO for CSP",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "SSO for CSP"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 965,
+    "estimated_tokens": 1302,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/departments,-teams,-and-roles/",
+    "final_url": "https://usehalo.com/guide/departments,-teams,-and-roles/",
+    "title": "Departments, Teams, and Roles",
+    "section": "Organisation",
+    "headings": {
+      "h1": [
+        "Departments, Teams, and Roles"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ]
+    },
+    "word_count": 899,
+    "estimated_tokens": 1213,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/co-managed-it/",
+    "final_url": "https://usehalo.com/guide/co-managed-it/",
+    "title": "Co-Managed IT",
+    "section": "Organisation",
+    "headings": {
+      "h1": [
+        "Co-Managed IT"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 632,
+    "estimated_tokens": 853,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/organisational-structure/",
+    "final_url": "https://usehalo.com/guide/organisational-structure/",
+    "title": "Organisational Structure",
+    "section": "Organisation",
+    "headings": {
+      "h1": [
+        "Organisational Structure"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1120,
+    "estimated_tokens": 1512,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/multi-tenancy/",
+    "final_url": "https://usehalo.com/guide/multi-tenancy/",
+    "title": "Multi-Tenancy",
+    "section": "Organisation",
+    "headings": {
+      "h1": [
+        "Multi-Tenancy"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 447,
+    "estimated_tokens": 603,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/automated-sow-generation/",
+    "final_url": "https://usehalo.com/guide/automated-sow-generation/",
+    "title": "Automated SoW Generation",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "Automated SoW Generation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 750,
+    "estimated_tokens": 1012,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ai-project-task-creation/",
+    "final_url": "https://usehalo.com/guide/ai-project-task-creation/",
+    "title": "AI Project Task Creation",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "AI Project Task Creation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1124,
+    "estimated_tokens": 1517,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/runbook-level-variables/",
+    "final_url": "https://usehalo.com/guide/runbook-level-variables/",
+    "title": "Runbook Level Variables",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "Runbook Level Variables"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 760,
+    "estimated_tokens": 1026,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/distribution-lists/",
+    "final_url": "https://usehalo.com/guide/distribution-lists/",
+    "title": "Distribution Lists",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "Distribution Lists"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1193,
+    "estimated_tokens": 1610,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/approval-processes/",
+    "final_url": "https://usehalo.com/guide/approval-processes/",
+    "title": "Approval Processes",
+    "section": "Automation",
+    "headings": {
+      "h1": [
+        "Approval Processes"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1485,
+    "estimated_tokens": 2004,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/active-directory-integration-ldap/",
+    "final_url": "https://usehalo.com/guide/active-directory-integration-ldap/",
+    "title": "Active Directory Integration (LDAP)",
+    "section": "HaloPSA Academy",
+    "headings": {
+      "h1": [
+        "Active Directory Integration (LDAP)"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 509,
+    "estimated_tokens": 687,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/dashboards-guide/",
+    "final_url": "https://usehalo.com/guide/dashboards-guide/",
+    "title": "Dashboards Guide",
+    "section": "HaloPSA Academy",
+    "headings": {
+      "h1": [
+        "Dashboards Guide"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 702,
+    "estimated_tokens": 947,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-viewing-and-filtering/",
+    "final_url": "https://usehalo.com/guide/ticket-viewing-and-filtering/",
+    "title": "Ticket Viewing and Filtering",
+    "section": "HaloPSA Academy",
+    "headings": {
+      "h1": [
+        "Ticket Viewing and Filtering"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1196,
+    "estimated_tokens": 1614,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/portal-ticket-logging/",
+    "final_url": "https://usehalo.com/guide/portal-ticket-logging/",
+    "title": "Portal Ticket Logging",
+    "section": "HaloPSA Academy",
+    "headings": {
+      "h1": [
+        "Portal Ticket Logging"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1021,
+    "estimated_tokens": 1378,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/user-details-self-update/",
+    "final_url": "https://usehalo.com/guide/user-details-self-update/",
+    "title": "User Details Self-Update",
+    "section": "HaloPSA Academy",
+    "headings": {
+      "h1": [
+        "User Details Self-Update"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 1097,
+    "estimated_tokens": 1480,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/major-incidents/",
+    "final_url": "https://usehalo.com/guide/major-incidents/",
+    "title": "Major Incidents",
+    "section": "Service Desk",
+    "headings": {
+      "h1": [
+        "Major Incidents"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 634,
+    "estimated_tokens": 855,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/user-creation-methods/",
+    "final_url": "https://usehalo.com/guide/user-creation-methods/",
+    "title": "User Creation Methods",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "User Creation Methods"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 435,
+    "estimated_tokens": 587,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/sql-imports-and-halo-integrator/",
+    "final_url": "https://usehalo.com/guide/sql-imports-and-halo-integrator/",
+    "title": "SQL Imports and Halo Integrator",
+    "section": "Data Import",
+    "headings": {
+      "h1": [
+        "SQL Imports and Halo Integrator"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 663,
+    "estimated_tokens": 895,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/internal-conversations/",
+    "final_url": "https://usehalo.com/guide/internal-conversations/",
+    "title": "Internal Conversations",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Internal Conversations"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 688,
+    "estimated_tokens": 928,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/custom-fields-creation-and-validation/",
+    "final_url": "https://usehalo.com/guide/custom-fields-creation-and-validation/",
+    "title": "Custom Fields Creation and Validation",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Custom Fields Creation and Validation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1123,
+    "estimated_tokens": 1516,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/forwarding-actions-to-additional-emails/",
+    "final_url": "https://usehalo.com/guide/forwarding-actions-to-additional-emails/",
+    "title": "Forwarding Actions to Additional Emails",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Forwarding Actions to Additional Emails"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 877,
+    "estimated_tokens": 1183,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-review-processing/",
+    "final_url": "https://usehalo.com/guide/ticket-review-processing/",
+    "title": "Ticket Review Processing",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Ticket Review Processing"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1365,
+    "estimated_tokens": 1842,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/time-entry-approval-rejection/",
+    "final_url": "https://usehalo.com/guide/time-entry-approval-rejection/",
+    "title": "Time Entry Approval/Rejection",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Time Entry Approval/Rejection"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ]
+    },
+    "word_count": 1018,
+    "estimated_tokens": 1374,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/progressive-web-application/",
+    "final_url": "https://usehalo.com/guide/progressive-web-application/",
+    "title": "Progressive Web Application",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Progressive Web Application"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 418,
+    "estimated_tokens": 564,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/lookups-sql-scripts/",
+    "final_url": "https://usehalo.com/guide/lookups-sql-scripts/",
+    "title": "Lookups (SQL Scripts)",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Lookups (SQL Scripts)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1060,
+    "estimated_tokens": 1431,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/category-groups/",
+    "final_url": "https://usehalo.com/guide/category-groups/",
+    "title": "Category Groups",
+    "section": "Ticket Rules",
+    "headings": {
+      "h1": [
+        "Category Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 817,
+    "estimated_tokens": 1102,
+    "image_count": 4,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/creating-category-groups-and-ticket-rules/",
+    "final_url": "https://usehalo.com/guide/creating-category-groups-and-ticket-rules/",
+    "title": "Creating Category Groups and Ticket Rules",
+    "section": "Ticket Rules",
+    "headings": {
+      "h1": [
+        "Creating Category Groups and Ticket Rules"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 771,
+    "estimated_tokens": 1040,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/service-access-configuration/",
+    "final_url": "https://usehalo.com/guide/service-access-configuration/",
+    "title": "Service Access Configuration",
+    "section": "Service Catalogue",
+    "headings": {
+      "h1": [
+        "Service Access Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1060,
+    "estimated_tokens": 1431,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/service-details/",
+    "final_url": "https://usehalo.com/guide/service-details/",
+    "title": "Service Details",
+    "section": "Service Catalogue",
+    "headings": {
+      "h1": [
+        "Service Details"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 865,
+    "estimated_tokens": 1167,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/monitored-services/",
+    "final_url": "https://usehalo.com/guide/monitored-services/",
+    "title": "Monitored Services",
+    "section": "Service Catalogue",
+    "headings": {
+      "h1": [
+        "Monitored Services"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 978,
+    "estimated_tokens": 1320,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/chat-configuration-with-ai-responses/",
+    "final_url": "https://usehalo.com/guide/chat-configuration-with-ai-responses/",
+    "title": "Chat Configuration with AI Responses",
+    "section": "Service Desk",
+    "headings": {
+      "h1": [
+        "Chat Configuration with AI Responses"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 738,
+    "estimated_tokens": 996,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/virtual-agents/",
+    "final_url": "https://usehalo.com/guide/virtual-agents/",
+    "title": "Virtual Agents",
+    "section": "Service Desk",
+    "headings": {
+      "h1": [
+        "Virtual Agents"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1379,
+    "estimated_tokens": 1861,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/audit-log-configuration/",
+    "final_url": "https://usehalo.com/guide/audit-log-configuration/",
+    "title": "Audit Log Configuration",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Audit Log Configuration"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 434,
+    "estimated_tokens": 585,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/redacting-sensitive-information/",
+    "final_url": "https://usehalo.com/guide/redacting-sensitive-information/",
+    "title": "Redacting Sensitive Information",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "Redacting Sensitive Information"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 571,
+    "estimated_tokens": 770,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/column-profiles/",
+    "final_url": "https://usehalo.com/guide/column-profiles/",
+    "title": "Column Profiles",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Column Profiles"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 759,
+    "estimated_tokens": 1024,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/default-views/",
+    "final_url": "https://usehalo.com/guide/default-views/",
+    "title": "Default Views",
+    "section": "Configuration",
+    "headings": {
+      "h1": [
+        "Default Views"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 344,
+    "estimated_tokens": 464,
+    "image_count": 8,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/ticket-viewing-options/",
+    "final_url": "https://usehalo.com/guide/ticket-viewing-options/",
+    "title": "Ticket Viewing Options",
+    "section": "Viewing Tickets",
+    "headings": {
+      "h1": [
+        "Ticket Viewing Options"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 629,
+    "estimated_tokens": 849,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/custom-ticket-lists/",
+    "final_url": "https://usehalo.com/guide/custom-ticket-lists/",
+    "title": "Custom Ticket Lists",
+    "section": "Viewing Tickets",
+    "headings": {
+      "h1": [
+        "Custom Ticket Lists"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 518,
+    "estimated_tokens": 699,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/auto-quantity-calculation/",
+    "final_url": "https://usehalo.com/guide/auto-quantity-calculation/",
+    "title": "Auto-Quantity Calculation",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Auto-Quantity Calculation"
+      ],
+      "h2": [
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 750,
+    "estimated_tokens": 1012,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/agreement-setup-examples/",
+    "final_url": "https://usehalo.com/guide/agreement-setup-examples/",
+    "title": "Agreement Setup Examples",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Agreement Setup Examples"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
+      ]
+    },
+    "word_count": 1798,
+    "estimated_tokens": 2427,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/subscription-count-based-quantities/",
+    "final_url": "https://usehalo.com/guide/subscription-count-based-quantities/",
+    "title": "Subscription Count Based Quantities",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Subscription Count Based Quantities"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1839,
+    "estimated_tokens": 2482,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/bulk-actions-on-tickets/",
+    "final_url": "https://usehalo.com/guide/bulk-actions-on-tickets/",
+    "title": "Bulk Actions on Tickets",
+    "section": "Tickets",
+    "headings": {
+      "h1": [
+        "Bulk Actions on Tickets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 840,
+    "estimated_tokens": 1134,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  }
+]
