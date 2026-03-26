@@ -519,13 +519,13 @@
     "discovery_source": "direct_guide"
   },
   {
-    "url": "https://usehalo.com/halopsa/guides/1530/",
-    "final_url": "https://usehalo.com/halopsa/guides/1530/",
-    "title": "Guides (ID 1530)",
-    "section": "HaloPSA Guides",
+    "url": "https://usehalo.com/guide/billing-configuration/",
+    "final_url": "https://usehalo.com/guide/billing-configuration/",
+    "title": "Billing Configuration",
+    "section": "Billing",
     "headings": {
       "h1": [
-        "Guides (ID 1530)"
+        "Billing Configuration"
       ],
       "h2": [
         "Section 1",
@@ -537,133 +537,119 @@
         "Subsection 2"
       ]
     },
-    "word_count": 423,
-    "estimated_tokens": 571,
-    "image_count": 0,
+    "word_count": 623,
+    "estimated_tokens": 841,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/azure-mail-integration-webhook-method-included/",
+    "final_url": "https://usehalo.com/guide/azure-mail-integration-webhook-method-included/",
+    "title": "Azure Mail Integration (Webhook Method)",
+    "section": "Email Configuration",
+    "headings": {
+      "h1": [
+        "Azure Mail Integration (Webhook Method)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 848,
+    "estimated_tokens": 1144,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/ninja-rmm-integration-api-v1-legacy/",
+    "final_url": "https://usehalo.com/guide/ninja-rmm-integration-api-v1-legacy/",
+    "title": "Ninja RMM Integration API V1 (Legacy)",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Ninja RMM Integration API V1 (Legacy)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1039,
+    "estimated_tokens": 1402,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "guides_by_id"
+    "discovery_source": "direct_guide"
   },
   {
-    "url": "https://usehalo.com/halopsa/guides/2100/",
-    "final_url": "https://usehalo.com/halopsa/guides/2100/",
-    "title": "Runbooks",
-    "section": "Automation",
+    "url": "https://usehalo.com/guide/creating-a-project-from-a-sales-order/",
+    "final_url": "https://usehalo.com/guide/creating-a-project-from-a-sales-order/",
+    "title": "Creating a Project From a Sales Order",
+    "section": "Projects",
     "headings": {
       "h1": [
-        "Runbooks"
+        "Creating a Project From a Sales Order"
       ],
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2"
       ]
     },
-    "word_count": 1268,
-    "estimated_tokens": 1711,
-    "image_count": 12,
-    "code_block_count": 3,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "guides_by_id"
-  },
-  {
-    "url": "https://usehalo.com/halopsa/guides/2371/",
-    "final_url": "https://usehalo.com/halopsa/guides/2371/",
-    "title": "Project Sales Process",
-    "section": "Projects",
-    "headings": {
-      "h1": [
-        "Project Sales Process"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ]
-    },
-    "word_count": 1625,
-    "estimated_tokens": 2193,
-    "image_count": 11,
+    "word_count": 1007,
+    "estimated_tokens": 1359,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "guides_by_id"
-  },
-  {
-    "url": "https://halopsa.com/guides/article/?kbid=1823",
-    "final_url": "https://halopsa.com/guides/article/?kbid=1823",
-    "title": "HaloPSA API Guide",
-    "section": "API",
-    "headings": {
-      "h1": [
-        "HaloPSA API Guide"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 1839,
-    "estimated_tokens": 2482,
-    "image_count": 0,
-    "code_block_count": 5,
-    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "legacy_kbid"
+    "discovery_source": "direct_guide"
   },
   {
-    "url": "https://halopsa.com/guides/article/?kbid=2305",
-    "final_url": "https://halopsa.com/guides/article/?kbid=2305",
-    "title": "Events and Alerts (RMM Integration)",
+    "url": "https://usehalo.com/guide/connectwise-control-integration/",
+    "final_url": "https://usehalo.com/guide/connectwise-control-integration/",
+    "title": "ConnectWise Control Integration",
     "section": "Integrations",
     "headings": {
       "h1": [
-        "Events and Alerts (RMM Integration)"
+        "ConnectWise Control Integration"
       ],
       "h2": [
         "Section 1",
@@ -683,16 +669,16 @@
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "legacy_kbid"
+    "discovery_source": "direct_guide"
   },
   {
-    "url": "https://halopsa.com/guides/article/?kbid=2330",
-    "final_url": "https://halopsa.com/guides/article/?kbid=2330",
-    "title": "Guide Article (kbid 2330)",
-    "section": "HaloPSA Guides",
+    "url": "https://usehalo.com/guide/timesheet-approvals/",
+    "final_url": "https://usehalo.com/guide/timesheet-approvals/",
+    "title": "Timesheet Approvals",
+    "section": "Billing",
     "headings": {
       "h1": [
-        "Guide Article (kbid 2330)"
+        "Timesheet Approvals"
       ],
       "h2": [
         "Section 1",
@@ -702,78 +688,248 @@
         "Subsection 1"
       ]
     },
-    "word_count": 890,
-    "estimated_tokens": 1201,
-    "image_count": 2,
+    "word_count": 1090,
+    "estimated_tokens": 1471,
+    "image_count": 9,
     "code_block_count": 0,
-    "has_ordered_list": false,
+    "has_ordered_list": true,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "legacy_kbid"
+    "discovery_source": "direct_guide"
   },
   {
-    "url": "https://halopsa.com/guides/article/?kbid=2370",
-    "final_url": "https://halopsa.com/guides/article/?kbid=2370",
-    "title": "Guides Index",
-    "section": "Index",
+    "url": "https://usehalo.com/guide/n-able-n-central-integration/",
+    "final_url": "https://usehalo.com/guide/n-able-n-central-integration/",
+    "title": "N-able N-Central Integration",
+    "section": "Integrations",
     "headings": {
       "h1": [
-        "Guides Index"
+        "N-able N-Central Integration"
       ],
       "h2": [
         "Section 1"
-      ]
-    },
-    "word_count": 472,
-    "estimated_tokens": 637,
-    "image_count": 0,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "legacy_kbid"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-views-fields/",
-    "final_url": "https://usehalo.com/guide/asset-views-fields/",
-    "title": "Asset Views/Fields",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Views/Fields"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2"
       ]
     },
-    "word_count": 738,
-    "estimated_tokens": 996,
-    "image_count": 4,
+    "word_count": 757,
+    "estimated_tokens": 1021,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/also-integration/",
+    "final_url": "https://usehalo.com/guide/also-integration/",
+    "title": "ALSO Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "ALSO Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1366,
+    "estimated_tokens": 1844,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/single-sign-on-b2c-for-entra-id-and-csp/",
+    "final_url": "https://usehalo.com/guide/single-sign-on-b2c-for-entra-id-and-csp/",
+    "title": "Single Sign on B2C (Entra ID and CSP)",
+    "section": "Security",
+    "headings": {
+      "h1": [
+        "Single Sign on B2C (Entra ID and CSP)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 748,
+    "estimated_tokens": 1009,
+    "image_count": 10,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/azure-key-vault-integration/",
+    "final_url": "https://usehalo.com/guide/azure-key-vault-integration/",
+    "title": "Azure Key Vault Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Azure Key Vault Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 971,
+    "estimated_tokens": 1310,
+    "image_count": 1,
+    "code_block_count": 3,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/n-able-passportal-integration/",
+    "final_url": "https://usehalo.com/guide/n-able-passportal-integration/",
+    "title": "N-Able Passportal Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "N-Able Passportal Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 645,
+    "estimated_tokens": 870,
+    "image_count": 12,
+    "code_block_count": 5,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/solarwinds-orion-integration/",
+    "final_url": "https://usehalo.com/guide/solarwinds-orion-integration/",
+    "title": "SolarWinds Orion Integration",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "SolarWinds Orion Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
+      ]
+    },
+    "word_count": 1680,
+    "estimated_tokens": 2268,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/guide/project-billing-budget-types-vs-charge-types/",
+    "final_url": "https://usehalo.com/guide/project-billing-budget-types-vs-charge-types/",
+    "title": "Project Billing - Budget Types vs Charge Types",
+    "section": "Projects",
+    "headings": {
+      "h1": [
+        "Project Billing - Budget Types vs Charge Types"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1325,
+    "estimated_tokens": 1788,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
     "has_lists": false,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "direct_guide"
   },
   {
-    "url": "https://usehalo.com/guide/asset-fields/",
-    "final_url": "https://usehalo.com/guide/asset-fields/",
-    "title": "Asset Fields",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/guide/budgets/",
+    "final_url": "https://usehalo.com/guide/budgets/",
+    "title": "Budgets",
+    "section": "Projects",
     "headings": {
       "h1": [
-        "Asset Fields"
+        "Budgets"
       ],
       "h2": [
         "Section 1",
@@ -783,117 +939,85 @@
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 2"
       ],
       "h4": [
-        "Detail 1"
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
       ]
     },
-    "word_count": 811,
-    "estimated_tokens": 1094,
-    "image_count": 2,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-views/",
-    "final_url": "https://usehalo.com/guide/asset-views/",
-    "title": "Asset Views",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Views"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 907,
-    "estimated_tokens": 1224,
-    "image_count": 10,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/batch-updating-asset-fields/",
-    "final_url": "https://usehalo.com/guide/batch-updating-asset-fields/",
-    "title": "Batch Updating Asset Fields",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Batch Updating Asset Fields"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
-      ]
-    },
-    "word_count": 851,
-    "estimated_tokens": 1148,
+    "word_count": 1923,
+    "estimated_tokens": 2596,
     "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "direct_guide"
+  },
+  {
+    "url": "https://usehalo.com/halopsa/guides/1530/",
+    "final_url": "https://usehalo.com/halopsa/guides/1530/",
+    "title": "Guides (ID 1530)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guides (ID 1530)"
+      ],
+      "h2": [
+        "Section 1"
+      ]
+    },
+    "word_count": 623,
+    "estimated_tokens": 841,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "guides_by_id"
   },
   {
-    "url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
-    "final_url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
-    "title": "Importing Assets (CSV/XLS/Spreadsheet Method)",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/halopsa/guides/2100/",
+    "final_url": "https://usehalo.com/halopsa/guides/2100/",
+    "title": "Runbooks",
+    "section": "Automation",
     "headings": {
       "h1": [
-        "Importing Assets (CSV/XLS/Spreadsheet Method)"
+        "Runbooks"
       ],
       "h2": [
         "Section 1",
         "Section 2"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Subsection 1"
       ]
     },
-    "word_count": 1076,
-    "estimated_tokens": 1452,
+    "word_count": 687,
+    "estimated_tokens": 927,
     "image_count": 9,
-    "code_block_count": 0,
+    "code_block_count": 1,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "guides_by_id"
   },
   {
-    "url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
-    "final_url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
-    "title": "Linking Assets Throughout Halo",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/halopsa/guides/2371/",
+    "final_url": "https://usehalo.com/halopsa/guides/2371/",
+    "title": "Project Sales Process",
+    "section": "Projects",
     "headings": {
       "h1": [
-        "Linking Assets Throughout Halo"
+        "Project Sales Process"
       ],
       "h2": [
         "Section 1",
@@ -905,193 +1029,84 @@
         "Subsection 2"
       ]
     },
-    "word_count": 670,
-    "estimated_tokens": 904,
-    "image_count": 8,
+    "word_count": 703,
+    "estimated_tokens": 949,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "guides_by_id"
   },
   {
-    "url": "https://usehalo.com/guide/linking-assets/",
-    "final_url": "https://usehalo.com/guide/linking-assets/",
-    "title": "Linking Assets",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/halopsa/guides/1084/",
+    "final_url": "https://usehalo.com/halopsa/guides/1084/",
+    "title": "Datto RMM Integration",
+    "section": "Integrations",
     "headings": {
       "h1": [
-        "Linking Assets"
+        "Datto RMM Integration"
       ],
       "h2": [
         "Section 1",
         "Section 2",
         "Section 3"
-      ]
-    },
-    "word_count": 1233,
-    "estimated_tokens": 1664,
-    "image_count": 7,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/linking-products-to-assets/",
-    "final_url": "https://usehalo.com/guide/linking-products-to-assets/",
-    "title": "Linking Products to Assets",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Linking Products to Assets"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
-      ]
-    },
-    "word_count": 1356,
-    "estimated_tokens": 1830,
-    "image_count": 2,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-custom-buttons/",
-    "final_url": "https://usehalo.com/guide/asset-custom-buttons/",
-    "title": "Asset Custom Buttons",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Custom Buttons"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 909,
-    "estimated_tokens": 1227,
-    "image_count": 8,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-management-configuration/",
-    "final_url": "https://usehalo.com/guide/asset-management-configuration/",
-    "title": "Asset Management Configuration",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Management Configuration"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3"
-      ]
-    },
-    "word_count": 911,
-    "estimated_tokens": 1229,
-    "image_count": 0,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-meters/",
-    "final_url": "https://usehalo.com/guide/asset-meters/",
-    "title": "Asset Meters",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Meters"
-      ],
-      "h2": [
-        "Section 1"
-      ]
-    },
-    "word_count": 430,
-    "estimated_tokens": 580,
-    "image_count": 4,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/asset-resource-booking/",
-    "final_url": "https://usehalo.com/guide/asset-resource-booking/",
-    "title": "Asset Resource Booking",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Asset Resource Booking"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
-      ],
-      "h3": [
-        "Subsection 1"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1221,
-    "estimated_tokens": 1648,
+    "word_count": 984,
+    "estimated_tokens": 1328,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/halopsa/guides/1070/",
+    "final_url": "https://usehalo.com/halopsa/guides/1070/",
+    "title": "Guides (ID 1070)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guides (ID 1070)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 737,
+    "estimated_tokens": 994,
     "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "guides_by_id"
   },
   {
-    "url": "https://usehalo.com/guide/asset-template-creation/",
-    "final_url": "https://usehalo.com/guide/asset-template-creation/",
-    "title": "Asset Template Creation",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/haloitsm/guides/1126/",
+    "final_url": "https://usehalo.com/haloitsm/guides/1126/",
+    "title": "Guides (HaloITSM 1126)",
+    "section": "HaloPSA Guides",
     "headings": {
       "h1": [
-        "Asset Template Creation"
+        "Guides (HaloITSM 1126)"
       ],
       "h2": [
         "Section 1",
@@ -1119,257 +1134,16 @@
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
-    "discovery_source": "search_discovered"
+    "discovery_source": "guides_by_id"
   },
   {
-    "url": "https://usehalo.com/guide/asset-types-groups/",
-    "final_url": "https://usehalo.com/guide/asset-types-groups/",
-    "title": "Asset Types/Groups",
-    "section": "Asset Management",
+    "url": "https://usehalo.com/haloitsm/guides/943/",
+    "final_url": "https://usehalo.com/haloitsm/guides/943/",
+    "title": "Jira Software Integration",
+    "section": "Integrations",
     "headings": {
       "h1": [
-        "Asset Types/Groups"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1"
-      ]
-    },
-    "word_count": 524,
-    "estimated_tokens": 707,
-    "image_count": 9,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/assets-vs-items/",
-    "final_url": "https://usehalo.com/guide/assets-vs-items/",
-    "title": "Assets Vs Items",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Assets Vs Items"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ]
-    },
-    "word_count": 1487,
-    "estimated_tokens": 2007,
-    "image_count": 2,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/barcode-scanning/",
-    "final_url": "https://usehalo.com/guide/barcode-scanning/",
-    "title": "Barcode Scanning",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Barcode Scanning"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
-      ]
-    },
-    "word_count": 881,
-    "estimated_tokens": 1189,
-    "image_count": 2,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/device-change-history/",
-    "final_url": "https://usehalo.com/guide/device-change-history/",
-    "title": "Device Change History",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Device Change History"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 1258,
-    "estimated_tokens": 1698,
-    "image_count": 12,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/event-management/",
-    "final_url": "https://usehalo.com/guide/event-management/",
-    "title": "Event Management",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Event Management"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 1043,
-    "estimated_tokens": 1408,
-    "image_count": 8,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
-    "final_url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
-    "title": "Iframe Custom Tabs on Assets",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "Iframe Custom Tabs on Assets"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 1047,
-    "estimated_tokens": 1413,
-    "image_count": 2,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/lapsafe-integration/",
-    "final_url": "https://usehalo.com/guide/lapsafe-integration/",
-    "title": "LapSafe Integration",
-    "section": "Asset Management",
-    "headings": {
-      "h1": [
-        "LapSafe Integration"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ]
-    },
-    "word_count": 550,
-    "estimated_tokens": 742,
-    "image_count": 6,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/changing-your-halo-url/",
-    "final_url": "https://usehalo.com/guide/changing-your-halo-url/",
-    "title": "Changing your Halo URL",
-    "section": "An Introduction to HaloPSA",
-    "headings": {
-      "h1": [
-        "Changing your Halo URL"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 940,
-    "estimated_tokens": 1269,
-    "image_count": 10,
-    "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
-    "final_url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
-    "title": "Introduction to Halo Documentation",
-    "section": "An Introduction to HaloPSA",
-    "headings": {
-      "h1": [
-        "Introduction to Halo Documentation"
+        "Jira Software Integration"
       ],
       "h2": [
         "Section 1",
@@ -1391,9 +1165,964 @@
         "Subsection 6"
       ]
     },
-    "word_count": 2452,
-    "estimated_tokens": 3310,
+    "word_count": 1686,
+    "estimated_tokens": 2276,
+    "image_count": 9,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/haloitsm/guides/1189/",
+    "final_url": "https://usehalo.com/haloitsm/guides/1189/",
+    "title": "Guides (HaloITSM 1189)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guides (HaloITSM 1189)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 1487,
+    "estimated_tokens": 2007,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/haloitsm/guides/2336/",
+    "final_url": "https://usehalo.com/haloitsm/guides/2336/",
+    "title": "Virtual Agents in the Chat Bot",
+    "section": "Service Desk",
+    "headings": {
+      "h1": [
+        "Virtual Agents in the Chat Bot"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1191,
+    "estimated_tokens": 1607,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/haloitsm/guides/1349/",
+    "final_url": "https://usehalo.com/haloitsm/guides/1349/",
+    "title": "Configuration > Billing > General Settings",
+    "section": "Billing",
+    "headings": {
+      "h1": [
+        "Configuration > Billing > General Settings"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
+      ]
+    },
+    "word_count": 1817,
+    "estimated_tokens": 2452,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/halocrm/guides/1291/",
+    "final_url": "https://usehalo.com/halocrm/guides/1291/",
+    "title": "QuickBooks Desktop Integration",
+    "section": "Accounting",
+    "headings": {
+      "h1": [
+        "QuickBooks Desktop Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 709,
+    "estimated_tokens": 957,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://usehalo.com/halocrm/guides/1843/",
+    "final_url": "https://usehalo.com/halocrm/guides/1843/",
+    "title": "Guides (HaloCRM 1843)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guides (HaloCRM 1843)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1014,
+    "estimated_tokens": 1368,
+    "image_count": 10,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "guides_by_id"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=1823",
+    "final_url": "https://halopsa.com/guides/article/?kbid=1823",
+    "title": "HaloPSA API Guide",
+    "section": "API",
+    "headings": {
+      "h1": [
+        "HaloPSA API Guide"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 1004,
+    "estimated_tokens": 1355,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2305",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2305",
+    "title": "Events and Alerts (RMM Integration)",
+    "section": "Integrations",
+    "headings": {
+      "h1": [
+        "Events and Alerts (RMM Integration)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1000,
+    "estimated_tokens": 1350,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2330",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2330",
+    "title": "Guide Article (kbid 2330)",
+    "section": "HaloPSA Guides",
+    "headings": {
+      "h1": [
+        "Guide Article (kbid 2330)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1483,
+    "estimated_tokens": 2002,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://halopsa.com/guides/article/?kbid=2370",
+    "final_url": "https://halopsa.com/guides/article/?kbid=2370",
+    "title": "Guides Index",
+    "section": "Index",
+    "headings": {
+      "h1": [
+        "Guides Index"
+      ]
+    },
+    "word_count": 335,
+    "estimated_tokens": 452,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "legacy_kbid"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-views-fields/",
+    "final_url": "https://usehalo.com/guide/asset-views-fields/",
+    "title": "Asset Views/Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Views/Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ]
+    },
+    "word_count": 957,
+    "estimated_tokens": 1291,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-fields/",
+    "final_url": "https://usehalo.com/guide/asset-fields/",
+    "title": "Asset Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 940,
+    "estimated_tokens": 1269,
     "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-views/",
+    "final_url": "https://usehalo.com/guide/asset-views/",
+    "title": "Asset Views",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Views"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 589,
+    "estimated_tokens": 795,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/batch-updating-asset-fields/",
+    "final_url": "https://usehalo.com/guide/batch-updating-asset-fields/",
+    "title": "Batch Updating Asset Fields",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Batch Updating Asset Fields"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 667,
+    "estimated_tokens": 900,
+    "image_count": 12,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
+    "final_url": "https://usehalo.com/guide/importing-assets-csv-xls-spreadsheet-method/",
+    "title": "Importing Assets (CSV/XLS/Spreadsheet Method)",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Importing Assets (CSV/XLS/Spreadsheet Method)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ]
+    },
+    "word_count": 1275,
+    "estimated_tokens": 1721,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
+    "final_url": "https://usehalo.com/guide/linking-assets-throughout-halo/",
+    "title": "Linking Assets Throughout Halo",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Assets Throughout Halo"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 705,
+    "estimated_tokens": 951,
+    "image_count": 3,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-assets/",
+    "final_url": "https://usehalo.com/guide/linking-assets/",
+    "title": "Linking Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1280,
+    "estimated_tokens": 1728,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/linking-products-to-assets/",
+    "final_url": "https://usehalo.com/guide/linking-products-to-assets/",
+    "title": "Linking Products to Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Linking Products to Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 481,
+    "estimated_tokens": 649,
+    "image_count": 6,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-custom-buttons/",
+    "final_url": "https://usehalo.com/guide/asset-custom-buttons/",
+    "title": "Asset Custom Buttons",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Custom Buttons"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ]
+    },
+    "word_count": 1232,
+    "estimated_tokens": 1663,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-management-configuration/",
+    "final_url": "https://usehalo.com/guide/asset-management-configuration/",
+    "title": "Asset Management Configuration",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Management Configuration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ]
+    },
+    "word_count": 762,
+    "estimated_tokens": 1028,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-meters/",
+    "final_url": "https://usehalo.com/guide/asset-meters/",
+    "title": "Asset Meters",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Meters"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1243,
+    "estimated_tokens": 1678,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-resource-booking/",
+    "final_url": "https://usehalo.com/guide/asset-resource-booking/",
+    "title": "Asset Resource Booking",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Resource Booking"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1363,
+    "estimated_tokens": 1840,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-template-creation/",
+    "final_url": "https://usehalo.com/guide/asset-template-creation/",
+    "title": "Asset Template Creation",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Template Creation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ]
+    },
+    "word_count": 866,
+    "estimated_tokens": 1169,
+    "image_count": 2,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/asset-types-groups/",
+    "final_url": "https://usehalo.com/guide/asset-types-groups/",
+    "title": "Asset Types/Groups",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Asset Types/Groups"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 971,
+    "estimated_tokens": 1310,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/assets-vs-items/",
+    "final_url": "https://usehalo.com/guide/assets-vs-items/",
+    "title": "Assets Vs Items",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Assets Vs Items"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1078,
+    "estimated_tokens": 1455,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/barcode-scanning/",
+    "final_url": "https://usehalo.com/guide/barcode-scanning/",
+    "title": "Barcode Scanning",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Barcode Scanning"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 943,
+    "estimated_tokens": 1273,
+    "image_count": 7,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/device-change-history/",
+    "final_url": "https://usehalo.com/guide/device-change-history/",
+    "title": "Device Change History",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Device Change History"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ]
+    },
+    "word_count": 1447,
+    "estimated_tokens": 1953,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/event-management/",
+    "final_url": "https://usehalo.com/guide/event-management/",
+    "title": "Event Management",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Event Management"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1464,
+    "estimated_tokens": 1976,
+    "image_count": 0,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
+    "final_url": "https://usehalo.com/guide/iframe-custom-tabs-on-assets/",
+    "title": "Iframe Custom Tabs on Assets",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "Iframe Custom Tabs on Assets"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ]
+    },
+    "word_count": 1076,
+    "estimated_tokens": 1452,
+    "image_count": 5,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/lapsafe-integration/",
+    "final_url": "https://usehalo.com/guide/lapsafe-integration/",
+    "title": "LapSafe Integration",
+    "section": "Asset Management",
+    "headings": {
+      "h1": [
+        "LapSafe Integration"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1236,
+    "estimated_tokens": 1668,
+    "image_count": 11,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/changing-your-halo-url/",
+    "final_url": "https://usehalo.com/guide/changing-your-halo-url/",
+    "title": "Changing your Halo URL",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Changing your Halo URL"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1576,
+    "estimated_tokens": 2127,
+    "image_count": 1,
+    "code_block_count": 0,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
+    "has_lists": true,
+    "http_status": 200,
+    "last_modified": "",
+    "discovery_source": "search_discovered"
+  },
+  {
+    "url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
+    "final_url": "https://usehalo.com/guide/introduction-to-halo-documentation/",
+    "title": "Introduction to Halo Documentation",
+    "section": "An Introduction to HaloPSA",
+    "headings": {
+      "h1": [
+        "Introduction to Halo Documentation"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
+      ]
+    },
+    "word_count": 1422,
+    "estimated_tokens": 1919,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -1414,16 +2143,28 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
       ]
     },
-    "word_count": 1012,
-    "estimated_tokens": 1366,
-    "image_count": 5,
+    "word_count": 1705,
+    "estimated_tokens": 2301,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
@@ -1445,29 +2186,24 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7"
+        "Subsection 4"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Detail 1"
       ]
     },
-    "word_count": 2038,
-    "estimated_tokens": 2751,
-    "image_count": 8,
+    "word_count": 973,
+    "estimated_tokens": 1313,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -1484,18 +2220,19 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3"
       ],
-      "h4": [
-        "Detail 1"
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 1314,
-    "estimated_tokens": 1773,
-    "image_count": 3,
+    "word_count": 1260,
+    "estimated_tokens": 1701,
+    "image_count": 2,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -1516,24 +2253,27 @@
         "Section 3",
         "Section 4",
         "Section 5",
-        "Section 6"
+        "Section 6",
+        "Section 7"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3"
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Detail 1"
       ]
     },
-    "word_count": 2104,
-    "estimated_tokens": 2840,
-    "image_count": 2,
+    "word_count": 1732,
+    "estimated_tokens": 2338,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -1554,20 +2294,20 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5"
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8",
+        "Section 9"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6"
+        "Subsection 2"
       ]
     },
-    "word_count": 2215,
-    "estimated_tokens": 2990,
-    "image_count": 3,
+    "word_count": 2143,
+    "estimated_tokens": 2893,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -1586,13 +2326,23 @@
         "Actions"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 342,
-    "estimated_tokens": 461,
-    "image_count": 0,
-    "code_block_count": 1,
+    "word_count": 1012,
+    "estimated_tokens": 1366,
+    "image_count": 3,
+    "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
     "has_lists": false,
@@ -1610,20 +2360,29 @@
         "Agents Configuration"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 666,
-    "estimated_tokens": 899,
-    "image_count": 7,
-    "code_block_count": 5,
+    "word_count": 1120,
+    "estimated_tokens": 1512,
+    "image_count": 12,
+    "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -1640,15 +2399,23 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1067,
-    "estimated_tokens": 1440,
-    "image_count": 0,
+    "word_count": 816,
+    "estimated_tokens": 1101,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
@@ -1665,11 +2432,23 @@
     "headings": {
       "h1": [
         "General Settings (Asset Management)"
+      ],
+      "h2": [
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 325,
-    "estimated_tokens": 438,
-    "image_count": 0,
+    "word_count": 1069,
+    "estimated_tokens": 1443,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -1689,18 +2468,16 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3"
+        "Section 2"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Subsection 1"
       ]
     },
-    "word_count": 1121,
-    "estimated_tokens": 1513,
-    "image_count": 0,
-    "code_block_count": 0,
+    "word_count": 540,
+    "estimated_tokens": 729,
+    "image_count": 4,
+    "code_block_count": 4,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -1720,17 +2497,15 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1"
       ]
     },
-    "word_count": 1179,
-    "estimated_tokens": 1591,
-    "image_count": 4,
+    "word_count": 1010,
+    "estimated_tokens": 1363,
+    "image_count": 1,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -1750,22 +2525,24 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 1056,
-    "estimated_tokens": 1425,
-    "image_count": 0,
+    "word_count": 1023,
+    "estimated_tokens": 1381,
+    "image_count": 1,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": false,
-    "has_lists": true,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -1788,16 +2565,15 @@
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Subsection 3"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1171,
-    "estimated_tokens": 1580,
-    "image_count": 0,
+    "word_count": 1320,
+    "estimated_tokens": 1782,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -1816,13 +2592,14 @@
         "Services"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2"
       ]
     },
-    "word_count": 639,
-    "estimated_tokens": 862,
-    "image_count": 5,
-    "code_block_count": 0,
+    "word_count": 525,
+    "estimated_tokens": 708,
+    "image_count": 11,
+    "code_block_count": 4,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -1840,20 +2617,23 @@
         "Service Level Agreements"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 539,
-    "estimated_tokens": 727,
-    "image_count": 6,
+    "word_count": 1241,
+    "estimated_tokens": 1675,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -1870,20 +2650,19 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ]
     },
-    "word_count": 746,
-    "estimated_tokens": 1007,
+    "word_count": 906,
+    "estimated_tokens": 1223,
     "image_count": 1,
-    "code_block_count": 4,
+    "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -1900,12 +2679,15 @@
       "h2": [
         "Section 1",
         "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 301,
-    "estimated_tokens": 406,
-    "image_count": 12,
-    "code_block_count": 0,
+    "word_count": 566,
+    "estimated_tokens": 764,
+    "image_count": 7,
+    "code_block_count": 3,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -1926,24 +2708,15 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Section 4"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Detail 1"
       ]
     },
-    "word_count": 1773,
-    "estimated_tokens": 2393,
-    "image_count": 6,
+    "word_count": 1263,
+    "estimated_tokens": 1705,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -1964,31 +2737,16 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Section 3"
       ]
     },
-    "word_count": 1758,
-    "estimated_tokens": 2373,
-    "image_count": 12,
+    "word_count": 1116,
+    "estimated_tokens": 1506,
+    "image_count": 1,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2007,19 +2765,23 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1005,
-    "estimated_tokens": 1356,
-    "image_count": 3,
+    "word_count": 1672,
+    "estimated_tokens": 2257,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2038,31 +2800,20 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Subsection 2"
       ]
     },
-    "word_count": 1660,
-    "estimated_tokens": 2241,
-    "image_count": 7,
+    "word_count": 1352,
+    "estimated_tokens": 1825,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2078,33 +2829,20 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
+        "Section 2"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Subsection 4"
       ]
     },
-    "word_count": 1587,
-    "estimated_tokens": 2142,
-    "image_count": 8,
+    "word_count": 1037,
+    "estimated_tokens": 1399,
+    "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -2123,15 +2861,20 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 747,
-    "estimated_tokens": 1008,
-    "image_count": 2,
+    "word_count": 1168,
+    "estimated_tokens": 1576,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2150,15 +2893,14 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
-      ],
-      "h3": [
-        "Subsection 1"
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ]
     },
-    "word_count": 881,
-    "estimated_tokens": 1189,
-    "image_count": 0,
+    "word_count": 1017,
+    "estimated_tokens": 1372,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2182,29 +2924,24 @@
         "Section 3",
         "Section 4",
         "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
+        "Section 6"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7",
-        "Subsection 8"
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
       ]
     },
-    "word_count": 1651,
-    "estimated_tokens": 2228,
-    "image_count": 12,
+    "word_count": 1726,
+    "estimated_tokens": 2330,
+    "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2227,17 +2964,15 @@
         "Section 5"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 1"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1113,
-    "estimated_tokens": 1502,
-    "image_count": 2,
+    "word_count": 1050,
+    "estimated_tokens": 1417,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2263,12 +2998,17 @@
         "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1197,
-    "estimated_tokens": 1615,
-    "image_count": 9,
+    "word_count": 951,
+    "estimated_tokens": 1283,
+    "image_count": 4,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -2287,15 +3027,16 @@
         "Creating Tickets Manually"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2"
       ],
       "h3": [
         "Subsection 1"
       ]
     },
-    "word_count": 655,
-    "estimated_tokens": 884,
-    "image_count": 9,
+    "word_count": 488,
+    "estimated_tokens": 658,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2315,35 +3056,24 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 2"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7",
-        "Subsection 8"
+        "Subsection 3"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Detail 1"
       ]
     },
-    "word_count": 1619,
-    "estimated_tokens": 2185,
-    "image_count": 9,
+    "word_count": 1088,
+    "estimated_tokens": 1468,
+    "image_count": 6,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2364,20 +3094,16 @@
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2"
       ]
     },
-    "word_count": 956,
-    "estimated_tokens": 1290,
-    "image_count": 11,
+    "word_count": 786,
+    "estimated_tokens": 1061,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2395,18 +3121,15 @@
         "Section 1",
         "Section 2",
         "Section 3"
-      ],
-      "h3": [
-        "Subsection 1"
       ]
     },
-    "word_count": 783,
-    "estimated_tokens": 1057,
-    "image_count": 2,
+    "word_count": 1470,
+    "estimated_tokens": 1984,
+    "image_count": 4,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2424,22 +3147,25 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1230,
-    "estimated_tokens": 1660,
-    "image_count": 0,
+    "word_count": 1207,
+    "estimated_tokens": 1629,
+    "image_count": 4,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2454,12 +3180,21 @@
         "SLA Module"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 582,
-    "estimated_tokens": 785,
-    "image_count": 12,
+    "word_count": 914,
+    "estimated_tokens": 1233,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -2478,19 +3213,28 @@
         "SLA Auto-Release Option"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 719,
-    "estimated_tokens": 970,
-    "image_count": 7,
+    "word_count": 1263,
+    "estimated_tokens": 1705,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2508,15 +3252,16 @@
         "Section 1"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 563,
-    "estimated_tokens": 760,
-    "image_count": 0,
+    "word_count": 736,
+    "estimated_tokens": 993,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2532,20 +3277,15 @@
         "Notification Types"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1"
+        "Section 1"
       ]
     },
-    "word_count": 520,
-    "estimated_tokens": 702,
-    "image_count": 7,
+    "word_count": 689,
+    "estimated_tokens": 930,
+    "image_count": 9,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2564,19 +3304,12 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Section 4"
       ]
     },
-    "word_count": 1373,
-    "estimated_tokens": 1853,
-    "image_count": 7,
+    "word_count": 1111,
+    "estimated_tokens": 1499,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2597,24 +3330,20 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 844,
-    "estimated_tokens": 1139,
-    "image_count": 7,
+    "word_count": 1046,
+    "estimated_tokens": 1412,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2633,15 +3362,14 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 5"
       ]
     },
-    "word_count": 1106,
-    "estimated_tokens": 1493,
-    "image_count": 1,
+    "word_count": 1153,
+    "estimated_tokens": 1556,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": false,
+    "has_ordered_list": true,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -2662,12 +3390,16 @@
         "Section 2"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 766,
-    "estimated_tokens": 1034,
-    "image_count": 7,
+    "word_count": 1488,
+    "estimated_tokens": 2008,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2693,13 +3425,13 @@
         "Subsection 1"
       ]
     },
-    "word_count": 784,
-    "estimated_tokens": 1058,
-    "image_count": 1,
+    "word_count": 1144,
+    "estimated_tokens": 1544,
+    "image_count": 4,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2716,20 +3448,19 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1"
       ]
     },
-    "word_count": 1474,
-    "estimated_tokens": 1989,
-    "image_count": 4,
+    "word_count": 621,
+    "estimated_tokens": 838,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2744,20 +3475,28 @@
         "Outgoing Email Settings"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 704,
-    "estimated_tokens": 950,
+    "word_count": 889,
+    "estimated_tokens": 1200,
     "image_count": 10,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2778,19 +3517,15 @@
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2"
       ]
     },
-    "word_count": 1470,
-    "estimated_tokens": 1984,
-    "image_count": 12,
+    "word_count": 561,
+    "estimated_tokens": 757,
+    "image_count": 5,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2811,14 +3546,11 @@
       ],
       "h3": [
         "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
       ]
     },
-    "word_count": 1235,
-    "estimated_tokens": 1667,
-    "image_count": 11,
+    "word_count": 1176,
+    "estimated_tokens": 1587,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -2841,15 +3573,20 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5"
+        "Section 5",
+        "Section 6",
+        "Section 7"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
       ]
     },
-    "word_count": 1368,
-    "estimated_tokens": 1846,
-    "image_count": 12,
+    "word_count": 1816,
+    "estimated_tokens": 2451,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": false,
@@ -2870,19 +3607,16 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 3"
       ]
     },
-    "word_count": 1217,
-    "estimated_tokens": 1642,
-    "image_count": 9,
+    "word_count": 745,
+    "estimated_tokens": 1005,
+    "image_count": 11,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2901,26 +3635,16 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5",
-        "Section 6"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Section 5"
       ]
     },
-    "word_count": 1926,
-    "estimated_tokens": 2600,
+    "word_count": 1005,
+    "estimated_tokens": 1356,
     "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -2935,34 +3659,15 @@
         "Customer Contracts"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5"
-      ],
-      "h4": [
-        "Detail 1"
+        "Section 1"
       ]
     },
-    "word_count": 1901,
-    "estimated_tokens": 2566,
+    "word_count": 746,
+    "estimated_tokens": 1007,
     "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -2982,25 +3687,18 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5",
-        "Section 6"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Section 5"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1153,
-    "estimated_tokens": 1556,
-    "image_count": 6,
+    "word_count": 1191,
+    "estimated_tokens": 1607,
+    "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -3017,19 +3715,30 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 8"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5"
       ],
       "h4": [
-        "Detail 1"
+        "Detail 1",
+        "Detail 2",
+        "Detail 3"
       ]
     },
-    "word_count": 1102,
-    "estimated_tokens": 1487,
-    "image_count": 7,
+    "word_count": 1624,
+    "estimated_tokens": 2192,
+    "image_count": 6,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -3049,20 +3758,20 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2"
       ]
     },
-    "word_count": 1288,
-    "estimated_tokens": 1738,
-    "image_count": 6,
+    "word_count": 1836,
+    "estimated_tokens": 2478,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -3084,21 +3793,29 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6",
+        "Subsection 7",
+        "Subsection 8"
+      ],
+      "h4": [
+        "Detail 1",
+        "Detail 2"
       ]
     },
-    "word_count": 1172,
-    "estimated_tokens": 1582,
-    "image_count": 7,
+    "word_count": 1802,
+    "estimated_tokens": 2432,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -3120,26 +3837,21 @@
         "Section 4",
         "Section 5",
         "Section 6",
-        "Section 7",
-        "Section 8"
+        "Section 7"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7",
-        "Subsection 8"
+        "Subsection 4"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 1600,
-    "estimated_tokens": 2160,
-    "image_count": 1,
+    "word_count": 1934,
+    "estimated_tokens": 2610,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3160,11 +3872,14 @@
       "h2": [
         "Section 1",
         "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 790,
-    "estimated_tokens": 1066,
-    "image_count": 6,
+    "word_count": 786,
+    "estimated_tokens": 1061,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -3187,30 +3902,23 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6"
+        "Subsection 3"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Detail 1"
       ]
     },
-    "word_count": 1569,
-    "estimated_tokens": 2118,
-    "image_count": 12,
+    "word_count": 1275,
+    "estimated_tokens": 1721,
+    "image_count": 1,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_ordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -3229,9 +3937,7 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
@@ -3244,9 +3950,9 @@
         "Detail 2"
       ]
     },
-    "word_count": 1529,
-    "estimated_tokens": 2064,
-    "image_count": 12,
+    "word_count": 1531,
+    "estimated_tokens": 2066,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": false,
@@ -3267,31 +3973,16 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2"
       ]
     },
-    "word_count": 1697,
-    "estimated_tokens": 2290,
-    "image_count": 5,
+    "word_count": 602,
+    "estimated_tokens": 812,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3315,28 +4006,20 @@
         "Section 3",
         "Section 4",
         "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
+        "Section 6"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6"
+        "Subsection 3"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Detail 1"
       ]
     },
-    "word_count": 1807,
-    "estimated_tokens": 2439,
-    "image_count": 0,
+    "word_count": 1340,
+    "estimated_tokens": 1809,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
@@ -3357,16 +4040,21 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1206,
-    "estimated_tokens": 1628,
-    "image_count": 3,
+    "word_count": 868,
+    "estimated_tokens": 1171,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3386,15 +4074,17 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3"
       ],
-      "h4": [
-        "Detail 1"
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 961,
-    "estimated_tokens": 1297,
-    "image_count": 8,
+    "word_count": 890,
+    "estimated_tokens": 1201,
+    "image_count": 2,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3413,20 +4103,23 @@
         "Charts and Graphs in Reports"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 610,
-    "estimated_tokens": 823,
-    "image_count": 6,
+    "word_count": 1345,
+    "estimated_tokens": 1815,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3441,19 +4134,28 @@
         "Common SQL Tables and Joins"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 777,
-    "estimated_tokens": 1048,
-    "image_count": 2,
+    "word_count": 959,
+    "estimated_tokens": 1294,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3470,18 +4172,20 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 3"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 1220,
-    "estimated_tokens": 1647,
-    "image_count": 0,
+    "word_count": 790,
+    "estimated_tokens": 1066,
+    "image_count": 2,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3497,19 +4201,26 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1022,
-    "estimated_tokens": 1379,
-    "image_count": 10,
+    "word_count": 965,
+    "estimated_tokens": 1302,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3526,10 +4237,7 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1",
@@ -3540,13 +4248,13 @@
         "Detail 1"
       ]
     },
-    "word_count": 862,
-    "estimated_tokens": 1163,
-    "image_count": 10,
+    "word_count": 1402,
+    "estimated_tokens": 1892,
+    "image_count": 9,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3564,22 +4272,21 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Subsection 2"
       ]
     },
-    "word_count": 1278,
-    "estimated_tokens": 1725,
-    "image_count": 4,
+    "word_count": 1172,
+    "estimated_tokens": 1582,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3597,16 +4304,20 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
+        "Section 4",
+        "Section 5"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 832,
-    "estimated_tokens": 1123,
-    "image_count": 3,
+    "word_count": 878,
+    "estimated_tokens": 1185,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3622,15 +4333,18 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 405,
-    "estimated_tokens": 546,
-    "image_count": 1,
+    "word_count": 1190,
+    "estimated_tokens": 1606,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3650,53 +4364,21 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4"
+        "Section 2"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 974,
-    "estimated_tokens": 1314,
-    "image_count": 11,
-    "code_block_count": 5,
+    "word_count": 1179,
+    "estimated_tokens": 1591,
+    "image_count": 7,
+    "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/datto-rmm-integration/",
-    "final_url": "https://usehalo.com/guide/datto-rmm-integration/",
-    "title": "Datto RMM Integration",
-    "section": "Integrations",
-    "headings": {
-      "h1": [
-        "Datto RMM Integration"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
-      ]
-    },
-    "word_count": 905,
-    "estimated_tokens": 1221,
-    "image_count": 0,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -3711,13 +4393,22 @@
         "NinjaOne Integration"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 646,
-    "estimated_tokens": 872,
-    "image_count": 0,
-    "code_block_count": 0,
+    "word_count": 816,
+    "estimated_tokens": 1101,
+    "image_count": 6,
+    "code_block_count": 5,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -3738,60 +4429,18 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
-      ],
-      "h4": [
-        "Detail 1"
-      ]
-    },
-    "word_count": 1091,
-    "estimated_tokens": 1472,
-    "image_count": 0,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/solarwinds-orion-integration/",
-    "final_url": "https://usehalo.com/guide/solarwinds-orion-integration/",
-    "title": "SolarWinds Orion Integration",
-    "section": "Integrations",
-    "headings": {
-      "h1": [
-        "SolarWinds Orion Integration"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Subsection 3"
       ]
     },
-    "word_count": 1524,
-    "estimated_tokens": 2057,
-    "image_count": 6,
-    "code_block_count": 5,
+    "word_count": 1278,
+    "estimated_tokens": 1725,
+    "image_count": 5,
+    "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -3811,11 +4460,16 @@
       "h2": [
         "Section 1",
         "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 1012,
-    "estimated_tokens": 1366,
-    "image_count": 1,
+    "word_count": 965,
+    "estimated_tokens": 1302,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
@@ -3835,53 +4489,15 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
-      ]
-    },
-    "word_count": 1051,
-    "estimated_tokens": 1418,
-    "image_count": 0,
-    "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
-    "http_status": 200,
-    "last_modified": "",
-    "discovery_source": "search_discovered"
-  },
-  {
-    "url": "https://usehalo.com/guide/connectwise-control-integration/",
-    "final_url": "https://usehalo.com/guide/connectwise-control-integration/",
-    "title": "ConnectWise Control Integration",
-    "section": "Integrations",
-    "headings": {
-      "h1": [
-        "ConnectWise Control Integration"
-      ],
-      "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Section 2"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 871,
-    "estimated_tokens": 1175,
-    "image_count": 6,
+    "word_count": 1113,
+    "estimated_tokens": 1502,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -3900,16 +4516,23 @@
         "GoTo Resolve Integration"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 714,
-    "estimated_tokens": 963,
-    "image_count": 7,
-    "code_block_count": 0,
+    "word_count": 1000,
+    "estimated_tokens": 1350,
+    "image_count": 0,
+    "code_block_count": 5,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -3930,20 +4553,20 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
-        "Subsection 4",
-        "Subsection 5"
+        "Subsection 4"
       ]
     },
-    "word_count": 1626,
-    "estimated_tokens": 2195,
-    "image_count": 0,
-    "code_block_count": 4,
+    "word_count": 993,
+    "estimated_tokens": 1340,
+    "image_count": 11,
+    "code_block_count": 1,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -3964,31 +4587,22 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9",
-        "Section 10"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1",
-        "Detail 2",
-        "Detail 3"
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
       ]
     },
-    "word_count": 1553,
-    "estimated_tokens": 2096,
-    "image_count": 8,
-    "code_block_count": 0,
+    "word_count": 1452,
+    "estimated_tokens": 1960,
+    "image_count": 0,
+    "code_block_count": 3,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4006,25 +4620,20 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7"
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7",
-        "Subsection 8"
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1780,
-    "estimated_tokens": 2403,
-    "image_count": 0,
+    "word_count": 1368,
+    "estimated_tokens": 1846,
+    "image_count": 4,
     "code_block_count": 4,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4046,13 +4655,21 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 4"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1401,
-    "estimated_tokens": 1891,
-    "image_count": 4,
+    "word_count": 1085,
+    "estimated_tokens": 1464,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": false,
@@ -4073,20 +4690,17 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Section 3",
+        "Section 4"
       ]
     },
-    "word_count": 1226,
-    "estimated_tokens": 1655,
-    "image_count": 2,
+    "word_count": 905,
+    "estimated_tokens": 1221,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4102,18 +4716,20 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 1445,
-    "estimated_tokens": 1950,
-    "image_count": 7,
+    "word_count": 971,
+    "estimated_tokens": 1310,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4134,20 +4750,12 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
-      ],
-      "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
+        "Section 3"
       ]
     },
-    "word_count": 1488,
-    "estimated_tokens": 2008,
-    "image_count": 0,
+    "word_count": 780,
+    "estimated_tokens": 1053,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4168,27 +4776,19 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8",
-        "Section 9"
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 1"
       ]
     },
-    "word_count": 1540,
-    "estimated_tokens": 2079,
-    "image_count": 9,
-    "code_block_count": 3,
+    "word_count": 568,
+    "estimated_tokens": 766,
+    "image_count": 12,
+    "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4206,13 +4806,13 @@
         "Section 1"
       ]
     },
-    "word_count": 302,
-    "estimated_tokens": 407,
-    "image_count": 0,
+    "word_count": 725,
+    "estimated_tokens": 978,
+    "image_count": 6,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4231,18 +4831,17 @@
         "Section 2",
         "Section 3",
         "Section 4",
-        "Section 5"
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 893,
-    "estimated_tokens": 1205,
-    "image_count": 9,
+    "word_count": 843,
+    "estimated_tokens": 1138,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4262,22 +4861,15 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 2"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 2"
       ]
     },
-    "word_count": 856,
-    "estimated_tokens": 1155,
+    "word_count": 793,
+    "estimated_tokens": 1070,
     "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
@@ -4297,21 +4889,16 @@
         "Ticket Lists on Portal"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
-      ],
-      "h3": [
-        "Subsection 1"
+        "Section 1"
       ]
     },
-    "word_count": 544,
-    "estimated_tokens": 734,
-    "image_count": 1,
+    "word_count": 779,
+    "estimated_tokens": 1051,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4328,19 +4915,27 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 625,
-    "estimated_tokens": 843,
-    "image_count": 11,
-    "code_block_count": 0,
+    "word_count": 990,
+    "estimated_tokens": 1336,
+    "image_count": 2,
+    "code_block_count": 4,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4361,17 +4956,16 @@
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 2"
       ]
     },
-    "word_count": 967,
-    "estimated_tokens": 1305,
-    "image_count": 2,
-    "code_block_count": 4,
+    "word_count": 677,
+    "estimated_tokens": 913,
+    "image_count": 0,
+    "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4386,18 +4980,17 @@
         "Redirect HTTP to HTTPS"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3"
+        "Section 1"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 402,
-    "estimated_tokens": 542,
+    "word_count": 680,
+    "estimated_tokens": 918,
     "image_count": 0,
-    "code_block_count": 2,
+    "code_block_count": 5,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -4415,12 +5008,14 @@
         "SSO for Entra ID"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3"
       ]
     },
-    "word_count": 376,
-    "estimated_tokens": 507,
-    "image_count": 7,
+    "word_count": 635,
+    "estimated_tokens": 857,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4440,20 +5035,17 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1"
       ]
     },
-    "word_count": 965,
-    "estimated_tokens": 1302,
-    "image_count": 0,
-    "code_block_count": 0,
+    "word_count": 609,
+    "estimated_tokens": 822,
+    "image_count": 8,
+    "code_block_count": 1,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -4471,17 +5063,16 @@
         "Departments, Teams, and Roles"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 1"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 899,
-    "estimated_tokens": 1213,
-    "image_count": 5,
+    "word_count": 499,
+    "estimated_tokens": 673,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4502,16 +5093,24 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
       ]
     },
-    "word_count": 632,
-    "estimated_tokens": 853,
-    "image_count": 11,
+    "word_count": 1160,
+    "estimated_tokens": 1566,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4527,17 +5126,19 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 2"
       ]
     },
-    "word_count": 1120,
-    "estimated_tokens": 1512,
-    "image_count": 0,
+    "word_count": 1030,
+    "estimated_tokens": 1390,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4560,13 +5161,13 @@
         "Section 2"
       ]
     },
-    "word_count": 447,
-    "estimated_tokens": 603,
-    "image_count": 3,
+    "word_count": 641,
+    "estimated_tokens": 865,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4582,20 +5183,24 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3"
+        "Section 2"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 750,
-    "estimated_tokens": 1012,
-    "image_count": 2,
-    "code_block_count": 0,
+    "word_count": 867,
+    "estimated_tokens": 1170,
+    "image_count": 0,
+    "code_block_count": 4,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4612,20 +5217,12 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
+        "Section 3"
       ]
     },
-    "word_count": 1124,
-    "estimated_tokens": 1517,
-    "image_count": 11,
+    "word_count": 593,
+    "estimated_tokens": 800,
+    "image_count": 6,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4644,17 +5241,17 @@
         "Runbook Level Variables"
       ],
       "h2": [
-        "Section 1",
-        "Section 2"
+        "Section 1"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 760,
-    "estimated_tokens": 1026,
-    "image_count": 5,
-    "code_block_count": 0,
+    "word_count": 749,
+    "estimated_tokens": 1011,
+    "image_count": 10,
+    "code_block_count": 2,
     "has_ordered_list": false,
     "has_unordered_list": false,
     "has_lists": false,
@@ -4674,18 +5271,16 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 1193,
-    "estimated_tokens": 1610,
-    "image_count": 11,
+    "word_count": 1332,
+    "estimated_tokens": 1798,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4706,21 +5301,15 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
-      ],
-      "h4": [
-        "Detail 1"
+        "Subsection 1"
       ]
     },
-    "word_count": 1485,
-    "estimated_tokens": 2004,
-    "image_count": 8,
+    "word_count": 633,
+    "estimated_tokens": 854,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4745,11 +5334,11 @@
         "Subsection 1"
       ]
     },
-    "word_count": 509,
-    "estimated_tokens": 687,
-    "image_count": 0,
+    "word_count": 534,
+    "estimated_tokens": 720,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -4767,17 +5356,13 @@
       ],
       "h2": [
         "Section 1"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
       ]
     },
-    "word_count": 702,
-    "estimated_tokens": 947,
-    "image_count": 0,
+    "word_count": 671,
+    "estimated_tokens": 905,
+    "image_count": 8,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -4795,25 +5380,24 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
         "Subsection 4"
-      ],
-      "h4": [
-        "Detail 1"
       ]
     },
-    "word_count": 1196,
-    "estimated_tokens": 1614,
-    "image_count": 4,
+    "word_count": 859,
+    "estimated_tokens": 1159,
+    "image_count": 12,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4831,15 +5415,21 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4"
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1021,
-    "estimated_tokens": 1378,
-    "image_count": 11,
+    "word_count": 1074,
+    "estimated_tokens": 1449,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4860,14 +5450,19 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4",
+        "Section 5"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1097,
-    "estimated_tokens": 1480,
-    "image_count": 12,
+    "word_count": 811,
+    "estimated_tokens": 1094,
+    "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": true,
+    "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -4884,15 +5479,20 @@
         "Major Incidents"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
         "Subsection 1"
       ]
     },
-    "word_count": 634,
-    "estimated_tokens": 855,
-    "image_count": 4,
+    "word_count": 829,
+    "estimated_tokens": 1119,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4913,19 +5513,25 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 435,
-    "estimated_tokens": 587,
-    "image_count": 0,
+    "word_count": 861,
+    "estimated_tokens": 1162,
+    "image_count": 12,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4941,15 +5547,17 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 663,
-    "estimated_tokens": 895,
-    "image_count": 2,
+    "word_count": 517,
+    "estimated_tokens": 697,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -4968,20 +5576,26 @@
         "Internal Conversations"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Subsection 1"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 688,
-    "estimated_tokens": 928,
-    "image_count": 0,
+    "word_count": 1280,
+    "estimated_tokens": 1728,
+    "image_count": 2,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -4997,19 +5611,14 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 2"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Subsection 1"
       ]
     },
-    "word_count": 1123,
-    "estimated_tokens": 1516,
+    "word_count": 620,
+    "estimated_tokens": 837,
     "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
@@ -5029,28 +5638,16 @@
         "Forwarding Actions to Additional Emails"
       ],
       "h2": [
-        "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4"
-      ],
-      "h4": [
-        "Detail 1"
+        "Section 1"
       ]
     },
-    "word_count": 877,
-    "estimated_tokens": 1183,
-    "image_count": 4,
+    "word_count": 568,
+    "estimated_tokens": 766,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_ordered_list": true,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5066,21 +5663,26 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2",
         "Subsection 3",
-        "Subsection 4"
+        "Subsection 4",
+        "Subsection 5",
+        "Subsection 6"
       ],
       "h4": [
-        "Detail 1"
+        "Detail 1",
+        "Detail 2"
       ]
     },
-    "word_count": 1365,
-    "estimated_tokens": 1842,
-    "image_count": 8,
+    "word_count": 1539,
+    "estimated_tokens": 2077,
+    "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5100,15 +5702,19 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 1018,
-    "estimated_tokens": 1374,
-    "image_count": 0,
+    "word_count": 1266,
+    "estimated_tokens": 1709,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": true,
     "has_unordered_list": true,
@@ -5130,10 +5736,10 @@
         "Section 1"
       ]
     },
-    "word_count": 418,
-    "estimated_tokens": 564,
-    "image_count": 11,
-    "code_block_count": 0,
+    "word_count": 793,
+    "estimated_tokens": 1070,
+    "image_count": 5,
+    "code_block_count": 5,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -5152,25 +5758,20 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6"
+        "Section 2"
       ],
       "h3": [
         "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 2"
       ]
     },
-    "word_count": 1060,
-    "estimated_tokens": 1431,
-    "image_count": 0,
+    "word_count": 531,
+    "estimated_tokens": 716,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5186,17 +5787,21 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4"
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3",
+        "Subsection 4"
       ],
       "h4": [
         "Detail 1"
       ]
     },
-    "word_count": 817,
-    "estimated_tokens": 1102,
-    "image_count": 4,
+    "word_count": 970,
+    "estimated_tokens": 1309,
+    "image_count": 5,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5215,16 +5820,13 @@
         "Creating Category Groups and Ticket Rules"
       ],
       "h2": [
-        "Section 1"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Section 1",
+        "Section 2"
       ]
     },
-    "word_count": 771,
-    "estimated_tokens": 1040,
-    "image_count": 0,
+    "word_count": 747,
+    "estimated_tokens": 1008,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5244,17 +5846,15 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3",
-        "Section 4"
+        "Section 2"
       ],
-      "h4": [
-        "Detail 1"
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 1060,
-    "estimated_tokens": 1431,
-    "image_count": 0,
+    "word_count": 810,
+    "estimated_tokens": 1093,
+    "image_count": 7,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5274,15 +5874,19 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 865,
-    "estimated_tokens": 1167,
-    "image_count": 3,
+    "word_count": 829,
+    "estimated_tokens": 1119,
+    "image_count": 10,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5302,13 +5906,12 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3"
+        "Section 2"
       ]
     },
-    "word_count": 978,
-    "estimated_tokens": 1320,
-    "image_count": 0,
+    "word_count": 1010,
+    "estimated_tokens": 1363,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
     "has_unordered_list": true,
@@ -5329,15 +5932,18 @@
       "h2": [
         "Section 1",
         "Section 2"
+      ],
+      "h3": [
+        "Subsection 1"
       ]
     },
-    "word_count": 738,
-    "estimated_tokens": 996,
-    "image_count": 5,
+    "word_count": 583,
+    "estimated_tokens": 787,
+    "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5354,22 +5960,20 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3"
+        "Section 3",
+        "Section 4"
       ],
       "h3": [
         "Subsection 1"
-      ],
-      "h4": [
-        "Detail 1"
       ]
     },
-    "word_count": 1379,
-    "estimated_tokens": 1861,
-    "image_count": 1,
+    "word_count": 924,
+    "estimated_tokens": 1247,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5384,16 +5988,26 @@
         "Audit Log Configuration"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 434,
-    "estimated_tokens": 585,
-    "image_count": 3,
-    "code_block_count": 0,
+    "word_count": 994,
+    "estimated_tokens": 1341,
+    "image_count": 1,
+    "code_block_count": 2,
     "has_ordered_list": false,
     "has_unordered_list": true,
     "has_lists": true,
@@ -5414,8 +6028,8 @@
         "Section 1"
       ]
     },
-    "word_count": 571,
-    "estimated_tokens": 770,
+    "word_count": 608,
+    "estimated_tokens": 820,
     "image_count": 8,
     "code_block_count": 0,
     "has_ordered_list": false,
@@ -5436,20 +6050,22 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2"
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2"
+        "Subsection 1"
       ]
     },
-    "word_count": 759,
-    "estimated_tokens": 1024,
-    "image_count": 10,
-    "code_block_count": 0,
+    "word_count": 1064,
+    "estimated_tokens": 1436,
+    "image_count": 11,
+    "code_block_count": 3,
     "has_ordered_list": false,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5464,17 +6080,16 @@
         "Default Views"
       ],
       "h2": [
-        "Section 1",
-        "Section 2"
+        "Section 1"
       ]
     },
-    "word_count": 344,
-    "estimated_tokens": 464,
-    "image_count": 8,
+    "word_count": 373,
+    "estimated_tokens": 503,
+    "image_count": 2,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5489,16 +6104,21 @@
         "Ticket Viewing Options"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2"
+      ],
+      "h3": [
+        "Subsection 1",
+        "Subsection 2"
       ]
     },
-    "word_count": 629,
-    "estimated_tokens": 849,
-    "image_count": 0,
+    "word_count": 741,
+    "estimated_tokens": 1000,
+    "image_count": 11,
     "code_block_count": 0,
     "has_ordered_list": false,
-    "has_unordered_list": false,
-    "has_lists": false,
+    "has_unordered_list": true,
+    "has_lists": true,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5514,12 +6134,11 @@
       ],
       "h2": [
         "Section 1",
-        "Section 2",
-        "Section 3"
+        "Section 2"
       ]
     },
-    "word_count": 518,
-    "estimated_tokens": 699,
+    "word_count": 513,
+    "estimated_tokens": 692,
     "image_count": 0,
     "code_block_count": 0,
     "has_ordered_list": false,
@@ -5539,18 +6158,28 @@
         "Auto-Quantity Calculation"
       ],
       "h2": [
-        "Section 1"
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Section 6"
       ],
       "h3": [
-        "Subsection 1"
+        "Subsection 1",
+        "Subsection 2",
+        "Subsection 3"
+      ],
+      "h4": [
+        "Detail 1"
       ]
     },
-    "word_count": 750,
-    "estimated_tokens": 1012,
-    "image_count": 11,
+    "word_count": 951,
+    "estimated_tokens": 1283,
+    "image_count": 10,
     "code_block_count": 0,
-    "has_ordered_list": false,
-    "has_unordered_list": true,
+    "has_ordered_list": true,
+    "has_unordered_list": false,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
@@ -5571,31 +6200,19 @@
         "Section 3",
         "Section 4",
         "Section 5",
-        "Section 6",
-        "Section 7",
-        "Section 8"
-      ],
-      "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3",
-        "Subsection 4",
-        "Subsection 5",
-        "Subsection 6",
-        "Subsection 7"
+        "Section 6"
       ],
       "h4": [
-        "Detail 1",
-        "Detail 2"
+        "Detail 1"
       ]
     },
-    "word_count": 1798,
-    "estimated_tokens": 2427,
-    "image_count": 9,
+    "word_count": 1420,
+    "estimated_tokens": 1917,
+    "image_count": 3,
     "code_block_count": 0,
-    "has_ordered_list": true,
-    "has_unordered_list": true,
-    "has_lists": true,
+    "has_ordered_list": false,
+    "has_unordered_list": false,
+    "has_lists": false,
     "http_status": 200,
     "last_modified": "",
     "discovery_source": "search_discovered"
@@ -5612,22 +6229,18 @@
       "h2": [
         "Section 1",
         "Section 2",
-        "Section 3",
-        "Section 4",
-        "Section 5",
-        "Section 6",
-        "Section 7"
+        "Section 3"
       ],
       "h3": [
         "Subsection 1",
         "Subsection 2"
       ]
     },
-    "word_count": 1839,
-    "estimated_tokens": 2482,
-    "image_count": 12,
+    "word_count": 756,
+    "estimated_tokens": 1020,
+    "image_count": 0,
     "code_block_count": 0,
-    "has_ordered_list": false,
+    "has_ordered_list": true,
     "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
@@ -5647,21 +6260,18 @@
         "Section 1",
         "Section 2",
         "Section 3",
-        "Section 4",
-        "Section 5"
+        "Section 4"
       ],
       "h3": [
-        "Subsection 1",
-        "Subsection 2",
-        "Subsection 3"
+        "Subsection 1"
       ]
     },
-    "word_count": 840,
-    "estimated_tokens": 1134,
-    "image_count": 12,
+    "word_count": 1115,
+    "estimated_tokens": 1505,
+    "image_count": 3,
     "code_block_count": 0,
     "has_ordered_list": true,
-    "has_unordered_list": false,
+    "has_unordered_list": true,
     "has_lists": true,
     "http_status": 200,
     "last_modified": "",
