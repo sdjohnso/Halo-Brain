@@ -1,6 +1,6 @@
 # HaloPSA Documentation Corpus — Discovery Analysis Report
 
-*Generated: 2026-03-26 01:03 UTC*
+*Generated: 2026-03-26 01:04 UTC*
 
 *Source: https://usehalo.com/halopsa/guides/*
 
@@ -14,27 +14,29 @@
 ## 0. Corpus Scale Estimate (FAQ Archive Pagination)
 
 The HaloPSA documentation is organized into WordPress FAQ-list archives with pagination.
-Each page contains approximately 10 articles. Key categories discovered:
+Each page contains approximately 10 articles. **75 unique FAQ-list categories** were discovered.
+Key categories:
 
 | Category Archive | Est. Pages | Est. Articles | URL Pattern |
 | --- | --- | --- | --- |
 | halopsa-website (superset) | 68-72 | ~700 | /faq-list/halopsa-website/ |
-| halopsa-academy | 51 | ~510 | /faq-list/halopsa-academy/ |
-| halopsa-academy (public guides) | 30 | ~300 | /faq-list/halopsa-academy-halopsa-public-guides/ |
-| user-guides | 50 | ~500 | /faq-list/user-guides/ |
-| faqs | 32 | ~320 | /faq-list/faqs/ |
-| halopsa-guides | 11 | ~110 | /faq-list/halopsa-guides/ |
+| user-guides | 59 | ~590 | /faq-list/user-guides/ |
 | haloitsm-public-guides | 54-57 | ~550 | /faq-list/haloitsm-public-guides/ |
-
-Plus **60+ additional topic-specific sub-categories** (email, tickets, billing, integrations, etc.)
+| halopsa-academy | 51 | ~510 | /faq-list/halopsa-academy/ |
+| using-and-configuring-halo | 38 | ~380 | /faq-list/using-and-configuring-halo/ |
+| faqs | 32 | ~320 | /faq-list/faqs/ |
+| halopsa-academy (public guides) | 30 | ~300 | /faq-list/halopsa-academy-halopsa-public-guides/ |
+| halocrm-public-guides | 22 | ~220 | /faq-list/halocrm-public-guides/ |
+| integrations (HaloITSM) | 21 | ~210 | /faq-list/integrations-haloitsm-public-guides/ |
+| halopsa-guides | 11 | ~110 | /faq-list/halopsa-guides/ |
 
 **Important:** Categories heavily overlap. The `halopsa-website` archive appears to be the
-superset containing most HaloPSA articles. After deduplication, the estimated unique
-article count is **~680-720 articles**. Guide IDs discovered range from 943 to 2443,
-and localized versions exist in French and Italian.
+superset. After deduplication, estimated unique article count is **~680-720 articles**.
+Guide IDs range from 943-2443 with localized FR/IT variants. Page totals fluctuate as
+new content is actively added.
 
 **Full corpus projections (at ~700 articles):**
-- Estimated total word count: ~720,000 words (extrapolating from 201-article sample avg of 1,030 words/article)
+- Estimated total word count: ~720,000 words
 - Estimated total tokens: ~972,000 tokens
 - Estimated chunks (400-token structural): ~2,430
 - Estimated chunks (500-token fixed, 50-token overlap): ~2,160

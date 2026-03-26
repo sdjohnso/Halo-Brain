@@ -95,7 +95,8 @@ FAQ_CATEGORIES = {
     "faqs": {"pages": 32, "title": "FAQs Archives"},
     "halopsa-guides": {"pages": 11, "title": "HaloPSA Guides Archives"},
     "haloitsm-public-guides": {"pages": 57, "title": "HaloITSM Public Guides"},
-    "user-guides": {"pages": 50, "title": "User Guides Archives"},
+    "user-guides": {"pages": 59, "title": "User Guides Archives"},
+    "using-and-configuring-halo": {"pages": 38, "title": "Using and Configuring Halo Archives"},
     # Topic-specific categories
     "an-introduction-to-halopsa": {"pages": 3, "title": "An Introduction to HaloPSA"},
     "implementation-checklist": {"pages": 2, "title": "Implementation Checklist"},
@@ -155,6 +156,21 @@ FAQ_CATEGORIES = {
     "chat": {"pages": 2, "title": "Chat"},
     "assets": {"pages": 3, "title": "Assets"},
     "haloitsm-trial-guides": {"pages": 2, "title": "HaloITSM Trial Guides"},
+    "self-service-portal-using-and-configuring-halo": {"pages": 5, "title": "Self-Service Portal (Config)"},
+    "clients-sites-users-halopsa-academy": {"pages": 3, "title": "Clients, Sites & Users"},
+    "security-about-halo": {"pages": 2, "title": "Security (About Halo)"},
+    "halocrm-public-guides": {"pages": 22, "title": "HaloCRM Public Guides"},
+    "integrations-haloitsm-public-guides": {"pages": 21, "title": "Integrations (HaloITSM)"},
+    "integrations-halocrm-public-guides": {"pages": 11, "title": "Integrations (HaloCRM)"},
+    "scheduled-automated-tickets-canned-text": {"pages": 2, "title": "Scheduled/Automated Tickets & Canned Text"},
+    "embedding-the-portal": {"pages": 2, "title": "Embedding the Portal"},
+    "service-level-agreements-slas": {"pages": 2, "title": "SLAs"},
+    "quote-configuration": {"pages": 2, "title": "Quote Configuration"},
+    "generating-pdfs-composite-reports": {"pages": 2, "title": "Generating PDFs & Composite Reports"},
+    "query-builders": {"pages": 2, "title": "Query Builders"},
+    "project-templates": {"pages": 2, "title": "Project Templates"},
+    "top-levels-clients-sites-users": {"pages": 2, "title": "Top Levels, Clients, Sites & Users"},
+    "general-information": {"pages": 2, "title": "General Information"},
 }
 
 # Known article topics from search results (used to generate realistic entries)
