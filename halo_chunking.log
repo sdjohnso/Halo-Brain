@@ -1,0 +1,442 @@
+2026-03-26 01:09:42,200  INFO  ============================================================
+2026-03-26 01:09:42,201  INFO  HaloPSA Content Extraction & Chunking Pipeline
+2026-03-26 01:09:42,201  INFO  Started: 2026-03-26T01:09:42.201103+00:00
+2026-03-26 01:09:42,201  INFO  ============================================================
+2026-03-26 01:09:42,202  INFO  Loaded manifest: 201 articles
+2026-03-26 01:09:42,202  INFO  Chunking config: max_tokens=500, overlap=50
+2026-03-26 01:09:42,202  INFO  Mode: from-manifest (synthetic content, structural shape preserved)
+2026-03-26 01:09:42,202  INFO  [1/201] Chunking (manifest mode): Introduction to HaloPSA
+2026-03-26 01:09:42,204  INFO    -> 9 chunks (est. tokens: 3040)
+2026-03-26 01:09:42,204  INFO  [2/201] Chunking (manifest mode): Self Service Portal
+2026-03-26 01:09:42,204  INFO    -> 9 chunks (est. tokens: 2544)
+2026-03-26 01:09:42,205  INFO  [3/201] Chunking (manifest mode): Super Ops RMM Integration
+2026-03-26 01:09:42,205  INFO    -> 9 chunks (est. tokens: 2109)
+2026-03-26 01:09:42,205  INFO  [4/201] Chunking (manifest mode): Scheduled Tickets
+2026-03-26 01:09:42,206  INFO    -> 7 chunks (est. tokens: 2231)
+2026-03-26 01:09:42,206  INFO  [5/201] Chunking (manifest mode): Email (General Settings)
+2026-03-26 01:09:42,206  INFO    -> 3 chunks (est. tokens: 949)
+2026-03-26 01:09:42,206  INFO  [6/201] Chunking (manifest mode): Azure DevOps Integration
+2026-03-26 01:09:42,207  INFO    -> 7 chunks (est. tokens: 2390)
+2026-03-26 01:09:42,207  INFO  [7/201] Chunking (manifest mode): General Settings (Notifications)
+2026-03-26 01:09:42,207  INFO    -> 3 chunks (est. tokens: 988)
+2026-03-26 01:09:42,207  INFO  [8/201] Chunking (manifest mode): Agents
+2026-03-26 01:09:42,208  INFO    -> 4 chunks (est. tokens: 1236)
+2026-03-26 01:09:42,208  INFO  [9/201] Chunking (manifest mode): Azure Sentinel Webhooks
+2026-03-26 01:09:42,208  INFO    -> 5 chunks (est. tokens: 1410)
+2026-03-26 01:09:42,208  INFO  [10/201] Chunking (manifest mode): Guide Introduction
+2026-03-26 01:09:42,209  INFO    -> 5 chunks (est. tokens: 1676)
+2026-03-26 01:09:42,209  INFO  [11/201] Chunking (manifest mode): Asset Management
+2026-03-26 01:09:42,209  INFO    -> 5 chunks (est. tokens: 1181)
+2026-03-26 01:09:42,209  INFO  [12/201] Chunking (manifest mode): Pax8 Integration
+2026-03-26 01:09:42,210  INFO    -> 5 chunks (est. tokens: 1823)
+2026-03-26 01:09:42,210  INFO  [13/201] Chunking (manifest mode): Setting Price Overrides Per Supplier at Product Level
+2026-03-26 01:09:42,210  INFO    -> 6 chunks (est. tokens: 1480)
+2026-03-26 01:09:42,210  INFO  [14/201] Chunking (manifest mode): The Report Screen Explained
+2026-03-26 01:09:42,211  INFO    -> 7 chunks (est. tokens: 1297)
+2026-03-26 01:09:42,211  INFO  [15/201] Chunking (manifest mode): Ticket Dashboards
+2026-03-26 01:09:42,211  INFO    -> 4 chunks (est. tokens: 969)
+2026-03-26 01:09:42,211  INFO  [16/201] Chunking (manifest mode): Azure Automation Integration
+2026-03-26 01:09:42,211  INFO    -> 4 chunks (est. tokens: 1158)
+2026-03-26 01:09:42,211  INFO  [17/201] Chunking (manifest mode): Billing Configuration
+2026-03-26 01:09:42,212  INFO    -> 4 chunks (est. tokens: 882)
+2026-03-26 01:09:42,212  INFO  [18/201] Chunking (manifest mode): Azure Mail Integration (Webhook Method)
+2026-03-26 01:09:42,212  INFO    -> 5 chunks (est. tokens: 1247)
+2026-03-26 01:09:42,212  INFO  [19/201] Chunking (manifest mode): Ninja RMM Integration API V1 (Legacy)
+2026-03-26 01:09:42,213  INFO    -> 7 chunks (est. tokens: 1481)
+2026-03-26 01:09:42,213  INFO  [20/201] Chunking (manifest mode): Creating a Project From a Sales Order
+2026-03-26 01:09:42,213  INFO    -> 4 chunks (est. tokens: 1367)
+2026-03-26 01:09:42,213  INFO  [21/201] Chunking (manifest mode): ConnectWise Control Integration
+2026-03-26 01:09:42,213  INFO    -> 4 chunks (est. tokens: 697)
+2026-03-26 01:09:42,213  INFO  [22/201] Chunking (manifest mode): Timesheet Approvals
+2026-03-26 01:09:42,214  INFO    -> 5 chunks (est. tokens: 1590)
+2026-03-26 01:09:42,214  INFO  [23/201] Chunking (manifest mode): N-able N-Central Integration
+2026-03-26 01:09:42,214  INFO    -> 3 chunks (est. tokens: 1083)
+2026-03-26 01:09:42,214  INFO  [24/201] Chunking (manifest mode): ALSO Integration
+2026-03-26 01:09:42,215  INFO    -> 7 chunks (est. tokens: 1974)
+2026-03-26 01:09:42,215  INFO  [25/201] Chunking (manifest mode): Single Sign on B2C (Entra ID and CSP)
+2026-03-26 01:09:42,215  INFO    -> 4 chunks (est. tokens: 1019)
+2026-03-26 01:09:42,215  INFO  [26/201] Chunking (manifest mode): Azure Key Vault Integration
+2026-03-26 01:09:42,216  INFO    -> 7 chunks (est. tokens: 1369)
+2026-03-26 01:09:42,216  INFO  [27/201] Chunking (manifest mode): N-Able Passportal Integration
+2026-03-26 01:09:42,216  INFO    -> 4 chunks (est. tokens: 883)
+2026-03-26 01:09:42,216  INFO  [28/201] Chunking (manifest mode): SolarWinds Orion Integration
+2026-03-26 01:09:42,217  INFO    -> 8 chunks (est. tokens: 2378)
+2026-03-26 01:09:42,217  INFO  [29/201] Chunking (manifest mode): Project Billing - Budget Types vs Charge Types
+2026-03-26 01:09:42,217  INFO    -> 6 chunks (est. tokens: 1828)
+2026-03-26 01:09:42,217  INFO  [30/201] Chunking (manifest mode): Budgets
+2026-03-26 01:09:42,218  INFO    -> 9 chunks (est. tokens: 2803)
+2026-03-26 01:09:42,218  INFO  [31/201] Chunking (manifest mode): Guides (ID 1530)
+2026-03-26 01:09:42,218  INFO    -> 3 chunks (est. tokens: 902)
+2026-03-26 01:09:42,218  INFO  [32/201] Chunking (manifest mode): Runbooks
+2026-03-26 01:09:42,219  INFO    -> 3 chunks (est. tokens: 943)
+2026-03-26 01:09:42,219  INFO  [33/201] Chunking (manifest mode): Project Sales Process
+2026-03-26 01:09:42,219  INFO    -> 4 chunks (est. tokens: 970)
+2026-03-26 01:09:42,219  INFO  [34/201] Chunking (manifest mode): Datto RMM Integration
+2026-03-26 01:09:42,219  INFO    -> 4 chunks (est. tokens: 1371)
+2026-03-26 01:09:42,220  INFO  [35/201] Chunking (manifest mode): Guides (ID 1070)
+2026-03-26 01:09:42,220  INFO    -> 3 chunks (est. tokens: 1022)
+2026-03-26 01:09:42,220  INFO  [36/201] Chunking (manifest mode): Guides (HaloITSM 1126)
+2026-03-26 01:09:42,220  INFO    -> 6 chunks (est. tokens: 1390)
+2026-03-26 01:09:42,220  INFO  [37/201] Chunking (manifest mode): Jira Software Integration
+2026-03-26 01:09:42,221  INFO    -> 10 chunks (est. tokens: 2369)
+2026-03-26 01:09:42,221  INFO  [38/201] Chunking (manifest mode): Guides (HaloITSM 1189)
+2026-03-26 01:09:42,222  INFO    -> 7 chunks (est. tokens: 2128)
+2026-03-26 01:09:42,222  INFO  [39/201] Chunking (manifest mode): Virtual Agents in the Chat Bot
+2026-03-26 01:09:42,222  INFO    -> 4 chunks (est. tokens: 1628)
+2026-03-26 01:09:42,222  INFO  [40/201] Chunking (manifest mode): Configuration > Billing > General Settings
+2026-03-26 01:09:42,223  INFO    -> 9 chunks (est. tokens: 2632)
+2026-03-26 01:09:42,223  INFO  [41/201] Chunking (manifest mode): QuickBooks Desktop Integration
+2026-03-26 01:09:42,223  INFO    -> 4 chunks (est. tokens: 970)
+2026-03-26 01:09:42,223  INFO  [42/201] Chunking (manifest mode): Guides (HaloCRM 1843)
+2026-03-26 01:09:42,224  INFO    -> 6 chunks (est. tokens: 1403)
+2026-03-26 01:09:42,224  INFO  [43/201] Chunking (manifest mode): HaloPSA API Guide
+2026-03-26 01:09:42,224  INFO    -> 5 chunks (est. tokens: 1499)
+2026-03-26 01:09:42,225  INFO  [44/201] Chunking (manifest mode): Events and Alerts (RMM Integration)
+2026-03-26 01:09:42,225  INFO    -> 5 chunks (est. tokens: 1359)
+2026-03-26 01:09:42,225  INFO  [45/201] Chunking (manifest mode): Guide Article (kbid 2330)
+2026-03-26 01:09:42,226  INFO    -> 5 chunks (est. tokens: 2117)
+2026-03-26 01:09:42,226  INFO  [46/201] Chunking (manifest mode): Guides Index
+2026-03-26 01:09:42,226  INFO    -> 1 chunks (est. tokens: 464)
+2026-03-26 01:09:42,226  INFO  [47/201] Chunking (manifest mode): Asset Views/Fields
+2026-03-26 01:09:42,226  INFO    -> 5 chunks (est. tokens: 1325)
+2026-03-26 01:09:42,226  INFO  [48/201] Chunking (manifest mode): Asset Fields
+2026-03-26 01:09:42,227  INFO    -> 7 chunks (est. tokens: 1303)
+2026-03-26 01:09:42,227  INFO  [49/201] Chunking (manifest mode): Asset Views
+2026-03-26 01:09:42,227  INFO    -> 4 chunks (est. tokens: 834)
+2026-03-26 01:09:42,227  INFO  [50/201] Chunking (manifest mode): Batch Updating Asset Fields
+2026-03-26 01:09:42,227  INFO    -> 4 chunks (est. tokens: 938)
+2026-03-26 01:09:42,227  INFO  [51/201] Chunking (manifest mode): Importing Assets (CSV/XLS/Spreadsheet Method)
+2026-03-26 01:09:42,228  INFO    -> 7 chunks (est. tokens: 1765)
+2026-03-26 01:09:42,228  INFO  [52/201] Chunking (manifest mode): Linking Assets Throughout Halo
+2026-03-26 01:09:42,228  INFO    -> 4 chunks (est. tokens: 983)
+2026-03-26 01:09:42,228  INFO  [53/201] Chunking (manifest mode): Linking Assets
+2026-03-26 01:09:42,229  INFO    -> 7 chunks (est. tokens: 1858)
+2026-03-26 01:09:42,229  INFO  [54/201] Chunking (manifest mode): Linking Products to Assets
+2026-03-26 01:09:42,229  INFO    -> 3 chunks (est. tokens: 658)
+2026-03-26 01:09:42,229  INFO  [55/201] Chunking (manifest mode): Asset Custom Buttons
+2026-03-26 01:09:42,230  INFO    -> 7 chunks (est. tokens: 1680)
+2026-03-26 01:09:42,230  INFO  [56/201] Chunking (manifest mode): Asset Management Configuration
+2026-03-26 01:09:42,230  INFO    -> 3 chunks (est. tokens: 1052)
+2026-03-26 01:09:42,230  INFO  [57/201] Chunking (manifest mode): Asset Meters
+2026-03-26 01:09:42,231  INFO    -> 7 chunks (est. tokens: 1822)
+2026-03-26 01:09:42,231  INFO  [58/201] Chunking (manifest mode): Asset Resource Booking
+2026-03-26 01:09:42,231  INFO    -> 7 chunks (est. tokens: 1987)
+2026-03-26 01:09:42,231  INFO  [59/201] Chunking (manifest mode): Asset Template Creation
+2026-03-26 01:09:42,232  INFO    -> 4 chunks (est. tokens: 1199)
+2026-03-26 01:09:42,232  INFO  [60/201] Chunking (manifest mode): Asset Types/Groups
+2026-03-26 01:09:42,232  INFO    -> 5 chunks (est. tokens: 1377)
+2026-03-26 01:09:42,232  INFO  [61/201] Chunking (manifest mode): Assets Vs Items
+2026-03-26 01:09:42,233  INFO    -> 5 chunks (est. tokens: 1542)
+2026-03-26 01:09:42,233  INFO  [62/201] Chunking (manifest mode): Barcode Scanning
+2026-03-26 01:09:42,233  INFO    -> 5 chunks (est. tokens: 1361)
+2026-03-26 01:09:42,233  INFO  [63/201] Chunking (manifest mode): Device Change History
+2026-03-26 01:09:42,234  INFO    -> 5 chunks (est. tokens: 2046)
+2026-03-26 01:09:42,234  INFO  [64/201] Chunking (manifest mode): Event Management
+2026-03-26 01:09:42,234  INFO    -> 7 chunks (est. tokens: 2055)
+2026-03-26 01:09:42,234  INFO  [65/201] Chunking (manifest mode): Iframe Custom Tabs on Assets
+2026-03-26 01:09:42,235  INFO    -> 7 chunks (est. tokens: 1495)
+2026-03-26 01:09:42,235  INFO  [66/201] Chunking (manifest mode): LapSafe Integration
+2026-03-26 01:09:42,235  INFO    -> 5 chunks (est. tokens: 1716)
+2026-03-26 01:09:42,235  INFO  [67/201] Chunking (manifest mode): Changing your Halo URL
+2026-03-26 01:09:42,236  INFO    -> 10 chunks (est. tokens: 2255)
+2026-03-26 01:09:42,236  INFO  [68/201] Chunking (manifest mode): Introduction to Halo Documentation
+2026-03-26 01:09:42,237  INFO    -> 5 chunks (est. tokens: 1930)
+2026-03-26 01:09:42,237  INFO  [69/201] Chunking (manifest mode): IP Addresses for Whitelisting
+2026-03-26 01:09:42,237  INFO    -> 10 chunks (est. tokens: 2420)
+2026-03-26 01:09:42,237  INFO  [70/201] Chunking (manifest mode): Navigating the Self-Service Portal (For End Users)
+2026-03-26 01:09:42,238  INFO    -> 5 chunks (est. tokens: 1345)
+2026-03-26 01:09:42,238  INFO  [71/201] Chunking (manifest mode): Release Notes
+2026-03-26 01:09:42,239  INFO    -> 7 chunks (est. tokens: 1876)
+2026-03-26 01:09:42,239  INFO  [72/201] Chunking (manifest mode): Terminology
+2026-03-26 01:09:42,239  INFO    -> 8 chunks (est. tokens: 2462)
+2026-03-26 01:09:42,239  INFO  [73/201] Chunking (manifest mode): Step-by-Step Configuration Walk Through
+2026-03-26 01:09:42,240  INFO    -> 10 chunks (est. tokens: 3004)
+2026-03-26 01:09:42,240  INFO  [74/201] Chunking (manifest mode): Actions
+2026-03-26 01:09:42,241  INFO    -> 7 chunks (est. tokens: 1379)
+2026-03-26 01:09:42,241  INFO  [75/201] Chunking (manifest mode): Agents Configuration
+2026-03-26 01:09:42,241  INFO    -> 6 chunks (est. tokens: 1546)
+2026-03-26 01:09:42,241  INFO  [76/201] Chunking (manifest mode): Custom Fields
+2026-03-26 01:09:42,242  INFO    -> 6 chunks (est. tokens: 1148)
+2026-03-26 01:09:42,242  INFO  [77/201] Chunking (manifest mode): General Settings (Asset Management)
+2026-03-26 01:09:42,242  INFO    -> 4 chunks (est. tokens: 1470)
+2026-03-26 01:09:42,242  INFO  [78/201] Chunking (manifest mode): General Settings (Tickets)
+2026-03-26 01:09:42,242  INFO    -> 3 chunks (est. tokens: 739)
+2026-03-26 01:09:42,242  INFO  [79/201] Chunking (manifest mode): Items & Stock Control
+2026-03-26 01:09:42,243  INFO    -> 4 chunks (est. tokens: 1425)
+2026-03-26 01:09:42,243  INFO  [80/201] Chunking (manifest mode): Recurring Invoices
+2026-03-26 01:09:42,243  INFO    -> 6 chunks (est. tokens: 1459)
+2026-03-26 01:09:42,243  INFO  [81/201] Chunking (manifest mode): Self Service Portal Configuration
+2026-03-26 01:09:42,244  INFO    -> 5 chunks (est. tokens: 1790)
+2026-03-26 01:09:42,244  INFO  [82/201] Chunking (manifest mode): Services
+2026-03-26 01:09:42,244  INFO    -> 3 chunks (est. tokens: 736)
+2026-03-26 01:09:42,244  INFO  [83/201] Chunking (manifest mode): Service Level Agreements
+2026-03-26 01:09:42,245  INFO    -> 7 chunks (est. tokens: 1812)
+2026-03-26 01:09:42,245  INFO  [84/201] Chunking (manifest mode): Statuses
+2026-03-26 01:09:42,245  INFO    -> 7 chunks (est. tokens: 1293)
+2026-03-26 01:09:42,245  INFO  [85/201] Chunking (manifest mode): Views
+2026-03-26 01:09:42,245  INFO    -> 3 chunks (est. tokens: 788)
+2026-03-26 01:09:42,245  INFO  [86/201] Chunking (manifest mode): Ticket Types
+2026-03-26 01:09:42,246  INFO    -> 5 chunks (est. tokens: 1762)
+2026-03-26 01:09:42,246  INFO  [87/201] Chunking (manifest mode): Modifying and Adding Workflows
+2026-03-26 01:09:42,246  INFO    -> 4 chunks (est. tokens: 1560)
+2026-03-26 01:09:42,246  INFO  [88/201] Chunking (manifest mode): Problem Management
+2026-03-26 01:09:42,247  INFO    -> 6 chunks (est. tokens: 2283)
+2026-03-26 01:09:42,247  INFO  [89/201] Chunking (manifest mode): Canned Text
+2026-03-26 01:09:42,247  INFO    -> 5 chunks (est. tokens: 1887)
+2026-03-26 01:09:42,247  INFO  [90/201] Chunking (manifest mode): Field Groups
+2026-03-26 01:09:42,248  INFO    -> 5 chunks (est. tokens: 1498)
+2026-03-26 01:09:42,248  INFO  [91/201] Chunking (manifest mode): Call Scripts
+2026-03-26 01:09:42,248  INFO    -> 6 chunks (est. tokens: 1616)
+2026-03-26 01:09:42,248  INFO  [92/201] Chunking (manifest mode): Ticket Screen Breakdown
+2026-03-26 01:09:42,249  INFO    -> 7 chunks (est. tokens: 1477)
+2026-03-26 01:09:42,249  INFO  [93/201] Chunking (manifest mode): Dynamic Field Visibility
+2026-03-26 01:09:42,249  INFO    -> 7 chunks (est. tokens: 2372)
+2026-03-26 01:09:42,249  INFO  [94/201] Chunking (manifest mode): Creating Tickets via Email
+2026-03-26 01:09:42,250  INFO    -> 6 chunks (est. tokens: 1474)
+2026-03-26 01:09:42,250  INFO  [95/201] Chunking (manifest mode): Creating Tickets via Portal
+2026-03-26 01:09:42,250  INFO    -> 6 chunks (est. tokens: 1326)
+2026-03-26 01:09:42,250  INFO  [96/201] Chunking (manifest mode): Creating Tickets Manually
+2026-03-26 01:09:42,250  INFO    -> 3 chunks (est. tokens: 685)
+2026-03-26 01:09:42,250  INFO  [97/201] Chunking (manifest mode): Time Logging
+2026-03-26 01:09:42,251  INFO    -> 5 chunks (est. tokens: 1572)
+2026-03-26 01:09:42,251  INFO  [98/201] Chunking (manifest mode): SLA Configuration
+2026-03-26 01:09:42,251  INFO    -> 4 chunks (est. tokens: 1096)
+2026-03-26 01:09:42,251  INFO  [99/201] Chunking (manifest mode): Workdays/Work Hours
+2026-03-26 01:09:42,252  INFO    -> 7 chunks (est. tokens: 2142)
+2026-03-26 01:09:42,252  INFO  [100/201] Chunking (manifest mode): SLA Hold Reminders
+2026-03-26 01:09:42,252  INFO    -> 6 chunks (est. tokens: 1701)
+2026-03-26 01:09:42,252  INFO  [101/201] Chunking (manifest mode): SLA Module
+2026-03-26 01:09:42,253  INFO    -> 4 chunks (est. tokens: 1279)
+2026-03-26 01:09:42,253  INFO  [102/201] Chunking (manifest mode): SLA Auto-Release Option
+2026-03-26 01:09:42,253  INFO    -> 7 chunks (est. tokens: 1749)
+2026-03-26 01:09:42,253  INFO  [103/201] Chunking (manifest mode): Notification Configuration
+2026-03-26 01:09:42,254  INFO    -> 3 chunks (est. tokens: 1066)
+2026-03-26 01:09:42,254  INFO  [104/201] Chunking (manifest mode): Notification Types
+2026-03-26 01:09:42,254  INFO    -> 3 chunks (est. tokens: 986)
+2026-03-26 01:09:42,254  INFO  [105/201] Chunking (manifest mode): Editing System Email Templates
+2026-03-26 01:09:42,254  INFO    -> 5 chunks (est. tokens: 1533)
+2026-03-26 01:09:42,255  INFO  [106/201] Chunking (manifest mode): Custom Email Templates
+2026-03-26 01:09:42,255  INFO    -> 4 chunks (est. tokens: 1435)
+2026-03-26 01:09:42,255  INFO  [107/201] Chunking (manifest mode): Message Groups
+2026-03-26 01:09:42,255  INFO    -> 6 chunks (est. tokens: 1634)
+2026-03-26 01:09:42,255  INFO  [108/201] Chunking (manifest mode): Email Template Groups
+2026-03-26 01:09:42,256  INFO    -> 5 chunks (est. tokens: 2106)
+2026-03-26 01:09:42,256  INFO  [109/201] Chunking (manifest mode): Google Mailbox Setup
+2026-03-26 01:09:42,257  INFO    -> 5 chunks (est. tokens: 1644)
+2026-03-26 01:09:42,257  INFO  [110/201] Chunking (manifest mode): Configuring an Azure Mailbox
+2026-03-26 01:09:42,257  INFO    -> 4 chunks (est. tokens: 878)
+2026-03-26 01:09:42,257  INFO  [111/201] Chunking (manifest mode): Outgoing Email Settings
+2026-03-26 01:09:42,257  INFO    -> 6 chunks (est. tokens: 1242)
+2026-03-26 01:09:42,257  INFO  [112/201] Chunking (manifest mode): Email Rules
+2026-03-26 01:09:42,258  INFO    -> 4 chunks (est. tokens: 795)
+2026-03-26 01:09:42,258  INFO  [113/201] Chunking (manifest mode): SMS Settings
+2026-03-26 01:09:42,258  INFO    -> 5 chunks (est. tokens: 1671)
+2026-03-26 01:09:42,258  INFO  [114/201] Chunking (manifest mode): Quotations
+2026-03-26 01:09:42,259  INFO    -> 8 chunks (est. tokens: 2471)
+2026-03-26 01:09:42,259  INFO  [115/201] Chunking (manifest mode): Sales Orders
+2026-03-26 01:09:42,259  INFO    -> 4 chunks (est. tokens: 1024)
+2026-03-26 01:09:42,259  INFO  [116/201] Chunking (manifest mode): Purchase Orders
+2026-03-26 01:09:42,259  INFO    -> 6 chunks (est. tokens: 1384)
+2026-03-26 01:09:42,260  INFO  [117/201] Chunking (manifest mode): Customer Contracts
+2026-03-26 01:09:42,260  INFO    -> 3 chunks (est. tokens: 1070)
+2026-03-26 01:09:42,260  INFO  [118/201] Chunking (manifest mode): Supplier Contracts
+2026-03-26 01:09:42,260  INFO    -> 6 chunks (est. tokens: 1630)
+2026-03-26 01:09:42,260  INFO  [119/201] Chunking (manifest mode): PDF Templates
+2026-03-26 01:09:42,261  INFO    -> 9 chunks (est. tokens: 2217)
+2026-03-26 01:09:42,261  INFO  [120/201] Chunking (manifest mode): Recurring Invoice Approvals
+2026-03-26 01:09:42,262  INFO    -> 7 chunks (est. tokens: 2549)
+2026-03-26 01:09:42,262  INFO  [121/201] Chunking (manifest mode): Contract Rules
+2026-03-26 01:09:42,263  INFO    -> 9 chunks (est. tokens: 2632)
+2026-03-26 01:09:42,263  INFO  [122/201] Chunking (manifest mode): Charge Rates
+2026-03-26 01:09:42,263  INFO    -> 8 chunks (est. tokens: 2682)
+2026-03-26 01:09:42,263  INFO  [123/201] Chunking (manifest mode): Billing Rules
+2026-03-26 01:09:42,263  INFO    -> 3 chunks (est. tokens: 1068)
+2026-03-26 01:09:42,264  INFO  [124/201] Chunking (manifest mode): Tax Codes
+2026-03-26 01:09:42,264  INFO    -> 6 chunks (est. tokens: 1773)
+2026-03-26 01:09:42,264  INFO  [125/201] Chunking (manifest mode): Peppol e-Invoicing
+2026-03-26 01:09:42,265  INFO    -> 5 chunks (est. tokens: 2086)
+2026-03-26 01:09:42,265  INFO  [126/201] Chunking (manifest mode): Project Management Configuration
+2026-03-26 01:09:42,265  INFO    -> 4 chunks (est. tokens: 838)
+2026-03-26 01:09:42,265  INFO  [127/201] Chunking (manifest mode): Project Setup Wizard
+2026-03-26 01:09:42,265  INFO    -> 7 chunks (est. tokens: 1852)
+2026-03-26 01:09:42,265  INFO  [128/201] Chunking (manifest mode): Project Tracking
+2026-03-26 01:09:42,266  INFO    -> 5 chunks (est. tokens: 1230)
+2026-03-26 01:09:42,266  INFO  [129/201] Chunking (manifest mode): AI Report Builder
+2026-03-26 01:09:42,266  INFO    -> 4 chunks (est. tokens: 1227)
+2026-03-26 01:09:42,266  INFO  [130/201] Chunking (manifest mode): Charts and Graphs in Reports
+2026-03-26 01:09:42,267  INFO    -> 5 chunks (est. tokens: 1947)
+2026-03-26 01:09:42,267  INFO  [131/201] Chunking (manifest mode): Common SQL Tables and Joins
+2026-03-26 01:09:42,267  INFO    -> 6 chunks (est. tokens: 1320)
+2026-03-26 01:09:42,267  INFO  [132/201] Chunking (manifest mode): Composite Reports
+2026-03-26 01:09:42,268  INFO    -> 4 chunks (est. tokens: 1096)
+2026-03-26 01:09:42,268  INFO  [133/201] Chunking (manifest mode): Configuring Custom Appearances in Reports
+2026-03-26 01:09:42,268  INFO    -> 6 chunks (est. tokens: 1320)
+2026-03-26 01:09:42,268  INFO  [134/201] Chunking (manifest mode): Dashboard Publishing Guide
+2026-03-26 01:09:42,269  INFO    -> 7 chunks (est. tokens: 2029)
+2026-03-26 01:09:42,269  INFO  [135/201] Chunking (manifest mode): Halo In-App Dashboard
+2026-03-26 01:09:42,269  INFO    -> 6 chunks (est. tokens: 1617)
+2026-03-26 01:09:42,269  INFO  [136/201] Chunking (manifest mode): Link Excel to Halo Report
+2026-03-26 01:09:42,270  INFO    -> 6 chunks (est. tokens: 1232)
+2026-03-26 01:09:42,270  INFO  [137/201] Chunking (manifest mode): Report Builder
+2026-03-26 01:09:42,270  INFO    -> 4 chunks (est. tokens: 1667)
+2026-03-26 01:09:42,270  INFO  [138/201] Chunking (manifest mode): ConnectWise RMM Integration
+2026-03-26 01:09:42,271  INFO    -> 5 chunks (est. tokens: 1683)
+2026-03-26 01:09:42,271  INFO  [139/201] Chunking (manifest mode): NinjaOne Integration
+2026-03-26 01:09:42,271  INFO    -> 5 chunks (est. tokens: 1212)
+2026-03-26 01:09:42,271  INFO  [140/201] Chunking (manifest mode): PRTG Integration
+2026-03-26 01:09:42,271  INFO    -> 5 chunks (est. tokens: 1775)
+2026-03-26 01:09:42,271  INFO  [141/201] Chunking (manifest mode): Zabbix Integration
+2026-03-26 01:09:42,272  INFO    -> 5 chunks (est. tokens: 1408)
+2026-03-26 01:09:42,272  INFO  [142/201] Chunking (manifest mode): AnyDesk Integration
+2026-03-26 01:09:42,272  INFO    -> 5 chunks (est. tokens: 1620)
+2026-03-26 01:09:42,273  INFO  [143/201] Chunking (manifest mode): GoTo Resolve Integration
+2026-03-26 01:09:42,273  INFO    -> 7 chunks (est. tokens: 1381)
+2026-03-26 01:09:42,273  INFO  [144/201] Chunking (manifest mode): Nagios XI Integration
+2026-03-26 01:09:42,273  INFO    -> 6 chunks (est. tokens: 1385)
+2026-03-26 01:09:42,273  INFO  [145/201] Chunking (manifest mode): Kaseya VSA X Integration
+2026-03-26 01:09:42,274  INFO    -> 5 chunks (est. tokens: 2017)
+2026-03-26 01:09:42,274  INFO  [146/201] Chunking (manifest mode): Avalara Integration
+2026-03-26 01:09:42,274  INFO    -> 5 chunks (est. tokens: 1887)
+2026-03-26 01:09:42,274  INFO  [147/201] Chunking (manifest mode): Sage Intacct Integration
+2026-03-26 01:09:42,275  INFO    -> 5 chunks (est. tokens: 1529)
+2026-03-26 01:09:42,275  INFO  [148/201] Chunking (manifest mode): Sage 50 Canada Integration
+2026-03-26 01:09:42,275  INFO    -> 5 chunks (est. tokens: 1233)
+2026-03-26 01:09:42,275  INFO  [149/201] Chunking (manifest mode): Microsoft Power Automate Integration
+2026-03-26 01:09:42,276  INFO    -> 7 chunks (est. tokens: 1369)
+2026-03-26 01:09:42,276  INFO  [150/201] Chunking (manifest mode): PowerShell Integration
+2026-03-26 01:09:42,276  INFO    -> 4 chunks (est. tokens: 1060)
+2026-03-26 01:09:42,276  INFO  [151/201] Chunking (manifest mode): Incoming Webhook Service
+2026-03-26 01:09:42,276  INFO    -> 4 chunks (est. tokens: 790)
+2026-03-26 01:09:42,276  INFO  [152/201] Chunking (manifest mode): Menu Buttons for Self-Service Portal
+2026-03-26 01:09:42,277  INFO    -> 3 chunks (est. tokens: 1031)
+2026-03-26 01:09:42,277  INFO  [153/201] Chunking (manifest mode): Google Analytics on Portal
+2026-03-26 01:09:42,277  INFO    -> 7 chunks (est. tokens: 1204)
+2026-03-26 01:09:42,277  INFO  [154/201] Chunking (manifest mode): Portal CSS Customisation
+2026-03-26 01:09:42,277  INFO    -> 3 chunks (est. tokens: 1086)
+2026-03-26 01:09:42,277  INFO  [155/201] Chunking (manifest mode): Ticket Lists on Portal
+2026-03-26 01:09:42,278  INFO    -> 4 chunks (est. tokens: 1148)
+2026-03-26 01:09:42,278  INFO  [156/201] Chunking (manifest mode): Two-Factor Authentication (2FA)
+2026-03-26 01:09:42,278  INFO    -> 6 chunks (est. tokens: 1385)
+2026-03-26 01:09:42,278  INFO  [157/201] Chunking (manifest mode): IP Whitelisting for Hosted Users
+2026-03-26 01:09:42,279  INFO    -> 4 chunks (est. tokens: 931)
+2026-03-26 01:09:42,279  INFO  [158/201] Chunking (manifest mode): Redirect HTTP to HTTPS
+2026-03-26 01:09:42,279  INFO    -> 3 chunks (est. tokens: 989)
+2026-03-26 01:09:42,279  INFO  [159/201] Chunking (manifest mode): SSO for Entra ID
+2026-03-26 01:09:42,279  INFO    -> 4 chunks (est. tokens: 884)
+2026-03-26 01:09:42,279  INFO  [160/201] Chunking (manifest mode): SSO for CSP
+2026-03-26 01:09:42,280  INFO    -> 4 chunks (est. tokens: 883)
+2026-03-26 01:09:42,280  INFO  [161/201] Chunking (manifest mode): Departments, Teams, and Roles
+2026-03-26 01:09:42,280  INFO    -> 3 chunks (est. tokens: 720)
+2026-03-26 01:09:42,280  INFO  [162/201] Chunking (manifest mode): Co-Managed IT
+2026-03-26 01:09:42,280  INFO    -> 7 chunks (est. tokens: 1578)
+2026-03-26 01:09:42,280  INFO  [163/201] Chunking (manifest mode): Organisational Structure
+2026-03-26 01:09:42,281  INFO    -> 6 chunks (est. tokens: 1459)
+2026-03-26 01:09:42,281  INFO  [164/201] Chunking (manifest mode): Multi-Tenancy
+2026-03-26 01:09:42,281  INFO    -> 3 chunks (est. tokens: 887)
+2026-03-26 01:09:42,281  INFO  [165/201] Chunking (manifest mode): Automated SoW Generation
+2026-03-26 01:09:42,282  INFO    -> 5 chunks (est. tokens: 1262)
+2026-03-26 01:09:42,282  INFO  [166/201] Chunking (manifest mode): AI Project Task Creation
+2026-03-26 01:09:42,282  INFO    -> 4 chunks (est. tokens: 825)
+2026-03-26 01:09:42,282  INFO  [167/201] Chunking (manifest mode): Runbook Level Variables
+2026-03-26 01:09:42,282  INFO    -> 3 chunks (est. tokens: 1083)
+2026-03-26 01:09:42,282  INFO  [168/201] Chunking (manifest mode): Distribution Lists
+2026-03-26 01:09:42,283  INFO    -> 7 chunks (est. tokens: 1965)
+2026-03-26 01:09:42,283  INFO  [169/201] Chunking (manifest mode): Approval Processes
+2026-03-26 01:09:42,283  INFO    -> 4 chunks (est. tokens: 882)
+2026-03-26 01:09:42,283  INFO  [170/201] Chunking (manifest mode): Active Directory Integration (LDAP)
+2026-03-26 01:09:42,284  INFO    -> 3 chunks (est. tokens: 785)
+2026-03-26 01:09:42,284  INFO  [171/201] Chunking (manifest mode): Dashboards Guide
+2026-03-26 01:09:42,284  INFO    -> 3 chunks (est. tokens: 954)
+2026-03-26 01:09:42,284  INFO  [172/201] Chunking (manifest mode): Ticket Viewing and Filtering
+2026-03-26 01:09:42,284  INFO    -> 5 chunks (est. tokens: 1196)
+2026-03-26 01:09:42,284  INFO  [173/201] Chunking (manifest mode): Portal Ticket Logging
+2026-03-26 01:09:42,285  INFO    -> 7 chunks (est. tokens: 1492)
+2026-03-26 01:09:42,285  INFO  [174/201] Chunking (manifest mode): User Details Self-Update
+2026-03-26 01:09:42,285  INFO    -> 6 chunks (est. tokens: 1145)
+2026-03-26 01:09:42,285  INFO  [175/201] Chunking (manifest mode): Major Incidents
+2026-03-26 01:09:42,286  INFO    -> 7 chunks (est. tokens: 1201)
+2026-03-26 01:09:42,286  INFO  [176/201] Chunking (manifest mode): User Creation Methods
+2026-03-26 01:09:42,286  INFO    -> 5 chunks (est. tokens: 1172)
+2026-03-26 01:09:42,286  INFO  [177/201] Chunking (manifest mode): SQL Imports and Halo Integrator
+2026-03-26 01:09:42,286  INFO    -> 4 chunks (est. tokens: 742)
+2026-03-26 01:09:42,287  INFO  [178/201] Chunking (manifest mode): Internal Conversations
+2026-03-26 01:09:42,287  INFO    -> 6 chunks (est. tokens: 1773)
+2026-03-26 01:09:42,287  INFO  [179/201] Chunking (manifest mode): Custom Fields Creation and Validation
+2026-03-26 01:09:42,287  INFO    -> 3 chunks (est. tokens: 863)
+2026-03-26 01:09:42,287  INFO  [180/201] Chunking (manifest mode): Forwarding Actions to Additional Emails
+2026-03-26 01:09:42,288  INFO    -> 3 chunks (est. tokens: 827)
+2026-03-26 01:09:42,288  INFO  [181/201] Chunking (manifest mode): Ticket Review Processing
+2026-03-26 01:09:42,288  INFO    -> 5 chunks (est. tokens: 2147)
+2026-03-26 01:09:42,288  INFO  [182/201] Chunking (manifest mode): Time Entry Approval/Rejection
+2026-03-26 01:09:42,289  INFO    -> 5 chunks (est. tokens: 1799)
+2026-03-26 01:09:42,289  INFO  [183/201] Chunking (manifest mode): Progressive Web Application
+2026-03-26 01:09:42,289  INFO    -> 4 chunks (est. tokens: 1164)
+2026-03-26 01:09:42,289  INFO  [184/201] Chunking (manifest mode): Lookups (SQL Scripts)
+2026-03-26 01:09:42,289  INFO    -> 3 chunks (est. tokens: 745)
+2026-03-26 01:09:42,290  INFO  [185/201] Chunking (manifest mode): Category Groups
+2026-03-26 01:09:42,290  INFO    -> 5 chunks (est. tokens: 1459)
+2026-03-26 01:09:42,290  INFO  [186/201] Chunking (manifest mode): Creating Category Groups and Ticket Rules
+2026-03-26 01:09:42,290  INFO    -> 3 chunks (est. tokens: 1013)
+2026-03-26 01:09:42,290  INFO  [187/201] Chunking (manifest mode): Service Access Configuration
+2026-03-26 01:09:42,291  INFO    -> 3 chunks (est. tokens: 1110)
+2026-03-26 01:09:42,291  INFO  [188/201] Chunking (manifest mode): Service Details
+2026-03-26 01:09:42,291  INFO    -> 6 chunks (est. tokens: 1156)
+2026-03-26 01:09:42,291  INFO  [189/201] Chunking (manifest mode): Monitored Services
+2026-03-26 01:09:42,292  INFO    -> 5 chunks (est. tokens: 1455)
+2026-03-26 01:09:42,292  INFO  [190/201] Chunking (manifest mode): Chat Configuration with AI Responses
+2026-03-26 01:09:42,292  INFO    -> 3 chunks (est. tokens: 803)
+2026-03-26 01:09:42,292  INFO  [191/201] Chunking (manifest mode): Virtual Agents
+2026-03-26 01:09:42,292  INFO    -> 5 chunks (est. tokens: 1313)
+2026-03-26 01:09:42,292  INFO  [192/201] Chunking (manifest mode): Audit Log Configuration
+2026-03-26 01:09:42,293  INFO    -> 7 chunks (est. tokens: 1381)
+2026-03-26 01:09:42,293  INFO  [193/201] Chunking (manifest mode): Redacting Sensitive Information
+2026-03-26 01:09:42,293  INFO    -> 3 chunks (est. tokens: 892)
+2026-03-26 01:09:42,293  INFO  [194/201] Chunking (manifest mode): Column Profiles
+2026-03-26 01:09:42,293  INFO    -> 6 chunks (est. tokens: 1459)
+2026-03-26 01:09:42,294  INFO  [195/201] Chunking (manifest mode): Default Views
+2026-03-26 01:09:42,294  INFO    -> 2 chunks (est. tokens: 530)
+2026-03-26 01:09:42,294  INFO  [196/201] Chunking (manifest mode): Ticket Viewing Options
+2026-03-26 01:09:42,294  INFO    -> 3 chunks (est. tokens: 1028)
+2026-03-26 01:09:42,294  INFO  [197/201] Chunking (manifest mode): Custom Ticket Lists
+2026-03-26 01:09:42,294  INFO    -> 3 chunks (est. tokens: 724)
+2026-03-26 01:09:42,294  INFO  [198/201] Chunking (manifest mode): Auto-Quantity Calculation
+2026-03-26 01:09:42,295  INFO    -> 7 chunks (est. tokens: 1294)
+2026-03-26 01:09:42,295  INFO  [199/201] Chunking (manifest mode): Agreement Setup Examples
+2026-03-26 01:09:42,295  INFO    -> 7 chunks (est. tokens: 1951)
+2026-03-26 01:09:42,295  INFO  [200/201] Chunking (manifest mode): Subscription Count Based Quantities
+2026-03-26 01:09:42,296  INFO    -> 4 chunks (est. tokens: 1063)
+2026-03-26 01:09:42,296  INFO  [201/201] Chunking (manifest mode): Bulk Actions on Tickets
+2026-03-26 01:09:42,296  INFO    -> 5 chunks (est. tokens: 1535)
+2026-03-26 01:09:42,311  INFO  Saved 1052 chunks to halo_chunks.jsonl
+2026-03-26 01:09:42,331  INFO  Saved 1052 chunks to halo_chunks.json
+2026-03-26 01:09:42,337  INFO  Saved chunk summary to halo_chunks_summary.csv
+2026-03-26 01:09:42,337  INFO  
+2026-03-26 01:09:42,337  INFO  ============================================================
+2026-03-26 01:09:42,337  INFO  CHUNKING STATISTICS
+2026-03-26 01:09:42,337  INFO  ============================================================
+2026-03-26 01:09:42,337  INFO    Articles processed:     201
+2026-03-26 01:09:42,337  INFO    Total chunks produced:   1052
+2026-03-26 01:09:42,337  INFO    Avg chunks per article:  5.2
+2026-03-26 01:09:42,337  INFO    Total words in chunks:   216,153
+2026-03-26 01:09:42,337  INFO    Total tokens in chunks:  291,274
+2026-03-26 01:09:42,337  INFO    Avg tokens per chunk:    277
+2026-03-26 01:09:42,338  INFO  
+2026-03-26 01:09:42,338  INFO    Token distribution:
+2026-03-26 01:09:42,338  INFO      p25: 194  p50: 263  p75: 356  p95: 488
+2026-03-26 01:09:42,338  INFO      min: 63  max: 500
+2026-03-26 01:09:42,338  INFO  
+2026-03-26 01:09:42,338  INFO    Chunk type breakdown:
+2026-03-26 01:09:42,338  INFO      fixed_window          224  ( 21.3%)
+2026-03-26 01:09:42,338  INFO      single                  1  (  0.1%)
+2026-03-26 01:09:42,338  INFO      structural_h2         827  ( 78.6%)
+2026-03-26 01:09:42,338  INFO  
+2026-03-26 01:09:42,338  INFO    Content signals in chunks:
+2026-03-26 01:09:42,338  INFO      With code:   0 (0.0%)
+2026-03-26 01:09:42,338  INFO      With lists:  0 (0.0%)
+2026-03-26 01:09:42,338  INFO      With images: 0 (0.0%)
+2026-03-26 01:09:42,338  INFO  ============================================================
+2026-03-26 01:09:42,338  INFO  
+Done. Files written:
+2026-03-26 01:09:42,338  INFO    halo_chunks.jsonl  — JSONL (one chunk per line, for streaming ingestion)
+2026-03-26 01:09:42,338  INFO    halo_chunks.json   — JSON array (for inspection)
+2026-03-26 01:09:42,338  INFO    halo_chunks_summary.csv — CSV summary (for spreadsheet review)
